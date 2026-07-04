@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>modgraph — bertie modpack mod map</title>
+  <meta name="description" content="Every mod in the bertie modpack, sorted into content / fluff / configurations / deconstruct and staged S1–S3.">
+  <meta name="color-scheme" content="dark">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3Crect%20width='32'%20height='32'%20rx='7'%20fill='%23131218'/%3E%3Ctext%20x='16'%20y='23'%20font-family='monospace'%20font-size='19'%20font-weight='700'%20fill='%239d72e6'%20text-anchor='middle'%3Em%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div class="atlas">
+    <div class="wrap">
+
+      <header class="head">
+        <div class="brand">
+          <span class="mark">modgraph<span class="slash">//</span><span class="sub">bertie&nbsp;modpack</span></span>
+        </div>
+        <p class="tag">
+          Every mod in <b>four buckets</b>.
+          <b>Content</b> = on the progression spine (staged S1–S3, addon ecosystems folded into <b>families</b>).
+          <b>Fluff</b> = adds tangible objects (items, blocks, mobs, structures, food) but outside progression.
+          <b>Configurations</b> = adds nothing tangible, only changes behaviour or visuals.
+          <b>Deconstruct</b> = asset donors, harvested for parts and not shipped.
+          Filter, search, slice.
+        </p>
+        <p class="stamp">NeoForge 1.21.1 &nbsp;·&nbsp; working draft — placements iterate</p>
+
+        <section class="ov">
+          <h2 class="ovlabel">Content per stage</h2>
+          <div class="dist" id="dist"></div>
+          <div class="ovmeta" id="ovmeta"></div>
+        </section>
+
+        <p class="known">
+          <b>Known-open (parked):</b> the S3 <b>void home dimension</b> is still unpicked;
+          resources-from-nothing runs through <code>modular-machinery</code> but its thin-air recipes are yours to author;
+          <code>mekanismmoremachine</code>'s UU-matter path overlaps that. Dropped: <code>hexalia</code>, <code>spell-engine</code>.
+        </p>
+      </header>
+
+      <div class="ctrl" role="search" aria-label="Filter mods">
+        <div class="ctrl-row">
+          <label class="search">
+            <span class="mag" aria-hidden="true">/</span>
+            <input id="search" type="search" placeholder="search mods, descriptions, notes…" aria-label="Search mods">
+          </label>
+          <div class="seg-toggle" id="bucket-toggle" role="tablist" aria-label="Bucket">
+            <button type="button" class="on" data-bucket="content">CONTENT</button>
+            <button type="button" data-bucket="fluff">FLUFF</button>
+            <button type="button" data-bucket="configurations">CONFIG</button>
+            <button type="button" data-bucket="deconstruct">DECON</button>
+            <button type="button" data-bucket="all">ALL</button>
+          </div>
+          <span class="count" id="count"></span>
+        </div>
+        <div class="chips" id="stage-chips"></div>
+        <div class="chips" id="axis-chips"></div>
+      </div>
+
+      <main class="groups" id="list"></main>
+
+      <footer class="foot">
+        <span>modgraph · source of record: bertie-mod-stages.md</span>
+        <span>content = on the spine · fluff/config = off it · deconstruct = not shipped</span>
+      </footer>
+
+    </div>
+  </div>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>
