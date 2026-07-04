@@ -2,7 +2,7 @@
 
 _The full modlist sorted into **three buckets**: **Content** = mods on the progression path (staged S1-S3, ecosystems folded into **families**); **Fluff** = mods that add tangible new objects (items, blocks, mobs, structures, food) but sit outside progression; **Configurations** = mods that add *nothing* tangible — they only change behaviour or visuals (QoL, UI, tweaks, fixes, compat, deps, enchantment abilities). Working draft — recipes will intertwine, so placements iterate._
 
-**Totals:** 77 content · 166 fluff · 181 configurations.
+**Totals:** 77 content · 167 fluff · 180 configurations.
 
 ## The 3-stage spine
 
@@ -187,7 +187,7 @@ _The merged endgame: full factory automation, Modular Machinery resources-from-n
 
 ---
 
-# Appendix A — FLUFF (166)
+# Appendix A — FLUFF (167)
 
 _Adds tangible new objects (items, blocks, mobs, structures, food) but sits outside progression. Grouped by type; you'll tune/trim these but they don't get a stage._
 
@@ -413,20 +413,21 @@ _Collapsed — one big ungated flavor ecosystem (Farmer's Delight family + fishi
 
 - **irons-spellbooks-arcane-essence-blocks** — 3 storage/compression blocks (Essence Sack, Arcane Essence Block, Arcane Ingot Block) to stack Arcane Essence in inventory
 
-### Other  (2)
+### Other  (3)
 
 - **end-remastered-additions** — Addon for End Remastered adding extra End-eye sources (fishing/trial/sculk/potato/blossom eyes).
   - ⚠ Blossom Eye source requires Bosses of Mass Destruction (BOMD) - verify BOMD is in pack
+- **midnight-thoughts** — sleep/rest overhaul with a 'Well Rested' buff system
 - **quest-items** — Placeholder/filler items for use as FTB Quest tasks, rewards, and progression keys
   - ⚠ quest-authoring helper items; multiple mods share this slug (FTB Quests Item Rewards vs Quest Items for FTB) - verify which jar is in pack
 
 ---
 
-# Appendix B — CONFIGURATIONS (181)
+# Appendix B — CONFIGURATIONS (180)
 
 _Adds no tangible object — only changes behaviour or visuals: QoL tweaks, UI/HUD/info, visuals/animation/audio, performance & fixes, control/dev/recipe tools, compat bridges, dependencies, and enchantment abilities. Grouped by kind._
 
-### QoL & convenience  (27)
+### QoL & convenience  (26)
 
 - **better-beacon-placement** — Preview/QoL for placing beacon pyramid base blocks correctly
 - **bettersmithingtable** — Adds a functional smithing-table GUI / QoL smithing tweaks
@@ -445,7 +446,6 @@ _Adds no tangible object — only changes behaviour or visuals: QoL tweaks, UI/H
 - **invmovecompats** — Compat patches extending InvMove to work with other mods' GUIs.
 - **leaves-be-gone** — Leaves decay/break instantly and drop nothing when disconnected from logs
 - **mekanism-curios** — QoL addon: adds Curios slots to hold the Portable QIO and Portable Teleporter with keybinds for quick access/teleport.
-- **midnight-thoughts** — sleep/rest overhaul with a 'Well Rested' buff system
 - **mouse-tweaks** — Drag/scroll inventory mouse actions for faster item movement.
 - **no-mining-cooldown** — Removes the 1.21 mining/attack cooldown so instant-mining works at any speed
 - **polymorph** — Resolves conflicting crafting recipes with a chooser in the crafting GUI.
