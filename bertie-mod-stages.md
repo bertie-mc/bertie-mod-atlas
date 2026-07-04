@@ -1,8 +1,8 @@
-# BERTIE — Mods by Progression Stage
+# modgraph — the bertie modpack mod map
 
-_The full modlist sorted into **three buckets**: **Content** = mods on the progression path (staged S1-S3, ecosystems folded into **families**); **Fluff** = mods that add tangible new objects (items, blocks, mobs, structures, food) but sit outside progression; **Configurations** = mods that add *nothing* tangible — they only change behaviour or visuals (QoL, UI, tweaks, fixes, compat, deps, enchantment abilities). Working draft — recipes will intertwine, so placements iterate._
+_The full modlist sorted into **four buckets**: **Content** = mods on the progression path (staged S1-S3, ecosystems folded into **families**); **Fluff** = mods that add tangible new objects (items, blocks, mobs, structures, food) but sit outside progression; **Configurations** = mods that add *nothing* tangible — they only change behaviour or visuals (QoL, UI, tweaks, fixes, compat, deps, enchantment abilities); **Deconstruct** = asset donors harvested for parts, not shipped in the pack. Working draft — recipes will intertwine, so placements iterate._
 
-**Totals:** 77 content · 167 fluff · 180 configurations.
+**Totals:** 77 content · 162 fluff · 167 configurations · 21 deconstruct.
 
 ## The 3-stage spine
 
@@ -12,13 +12,13 @@ _The full modlist sorted into **three buckets**: **Content** = mods on the progr
 | **S2** | MACHINES & POWER | Ore processing/doubling, power generation, the storage grid, semi-auto mining (digital miner / mining laser), mid-tier tech. |
 | **S3** | VOID FACTORY | The merged endgame: full factory automation, Modular Machinery resources-from-nothing, Avaritia infinity crafting, living in the void. Fewer mods, but each is a long grind. |
 
-**Content per stage:** S1 = 45 · S2 = 24 · S3 = 8  — S1 carries the most because early mods span forward; late mods are fewer but deeper.
+**Content per stage:** S1 = 46 · S2 = 23 · S3 = 8  — S1 carries the most because early mods span forward; late mods are fewer but deeper.
 
 ---
 
 # CONTENT — by stage
 
-## S1 · ADVENTURE  (45)
+## S1 · ADVENTURE  (46)
 
 _Combat, magic, bosses, dungeons, mining, exploration, power-trinkets and early Create. The fat early stage — most mods live here, and many stretch onward._
 
@@ -49,10 +49,11 @@ _Combat, magic, bosses, dungeons, mining, exploration, power-trinkets and early 
 - **the-twilight-forest** `S1` — Full adventure sub-dimension with progression bosses (Naga, Lich, Hydra, Ur-Ghast), dungeons, gear and materials
 - **twilight-forest-final-boss-remake** `S1` — Adds the Castle Keeper final boss to the Twilight Forest with unique phases, attacks and loot
 
-### ⚙ Malum family  (2)
+### ⚙ Malum family  (3)
 
 - **malstone** `S1` — Small Malum addon adding a few extra Malum-themed items/weapons and accessories (e.g. a deadly knife).
 - **malum** `S1` — Spirit-harvesting arcane progression: spirit crucible/altar, malignant metals, staves, scythes and soulward gear.
+- **malum-vestis** `S1` — Malum addon: themed armor/vestment sets tied to Malum's spirit magic.
 
 ### Combat — weapons, armor, gear
 
@@ -104,7 +105,7 @@ _Combat, magic, bosses, dungeons, mining, exploration, power-trinkets and early 
 - **nameless-trinkets** `S1` — 25+ powerful individual trinkets (fire immunity, super magnet, underwater mastery, etc.) found in structure chests or crafted
 - **terra-curio** `S1` — Terraria-inspired accessories with stat boosts and special abilities (limited flight, gravity flip, etc.) via Curios slots
 
-## S2 · MACHINES & POWER  (24)
+## S2 · MACHINES & POWER  (23)
 
 _Ore processing/doubling, power generation, the storage grid, semi-auto mining (digital miner / mining laser), mid-tier tech._
 
@@ -142,10 +143,6 @@ _Ore processing/doubling, power generation, the storage grid, semi-auto mining (
 ### Dimensions & gates
 
 - **stellaris** `S2` — Space-exploration dimension mod: modular rockets, planets/moons/galaxies, tech-gated interplanetary travel
-
-### Materials & ore tiers
-
-- **deep-underground** `S2` — 256-block mining dimension with boosted ores and Viridium/Cerulium/Depthbound-Steel tools and armor
 
 ### Tech, automation & power
 
@@ -187,15 +184,12 @@ _The merged endgame: full factory automation, Modular Machinery resources-from-n
 
 ---
 
-# Appendix A — FLUFF (167)
+# Appendix A — FLUFF (162)
 
 _Adds tangible new objects (items, blocks, mobs, structures, food) but sits outside progression. Grouped by type; you'll tune/trim these but they don't get a stage._
 
-### QoL & convenience  (29)
+### QoL & convenience  (27)
 
-- **allaybottle** — Bottle item to capture, carry, and release allays.
-- **ascended-quark** — Compatibility addon bridging Quark features with the Aether mod (skyroot variants etc.)
-  - ⚠ Aether-dependent; verify Aether is even in the pack - may be dead weight/dropped
 - **burnt-basic** — realistic fire spread + charred blocks, extinguisher, fire barrels/bow
   - ⚠ adds a few items but is an ungated fire-mechanic tweak -> fluff
 - **chunk-loaders** — Block that keeps surrounding chunks loaded while offline.
@@ -340,7 +334,7 @@ _Adds tangible new objects (items, blocks, mobs, structures, food) but sits outs
 - **terralith** — ~100 overworld biomes + terrain via datapack noise settings
 - **waystones** — Placeable teleport waystones and warp scrolls for fast travel
 
-### Movement & transport  (10)
+### Movement & transport  (9)
 
 - **ashen-witch-broom** — Rideable configurable flying witch broom (anime Elaina cosmetics)
 - **elevatormod** — Stackable elevator blocks that teleport you vertically between them
@@ -351,7 +345,6 @@ _Adds tangible new objects (items, blocks, mobs, structures, food) but sits outs
   - ⚠ Movement/transport flavor; adds items but ungated flight convenience
 - **simple-recall-potion** — Potion that teleports the player back to spawn/home point
   - ⚠ Little documentation; recall/teleport convenience item
-- **toffys-hooks** — Grappling hook for swinging plus ice skates and hookaxe multitool
 - **useful-railroads** — High-speed powered and teleporting rails, rail charger, and tunnel-bore rail tools.
 - **wings-of-fire** — Wings-of-Fire-franchise dragon transformation/flight mod: become a dragon, plus themed blocks (hives, volcano, Eye of Onyx).
   - ⚠ Primarily a dragon-transformation/flight + decorative-block mod, ungated flavor → fluff. Verify it's the transformation mod and not a combat/creature mod; confirm it's actually in the pack (thematically odd alongside iceandfire-ce).
@@ -384,15 +377,13 @@ _Adds tangible new objects (items, blocks, mobs, structures, food) but sits outs
 - **upgraded-mobs** — Adds tougher armored/equipped variants of vanilla mobs plus mob-gear variety.
   - ⚠ Author locked upgraded-mobs as FLUFF in ruleset.
 
-### Enchantments & enchanting  (6)
+### Enchantments & enchanting  (5)
 
 - **dis-enchanting-table** — Station to extract/remove enchantments from items into books
 - **enchanting-infuser** — Alternative enchanting-table block letting you pick exact enchantments by paying XP
 - **immersive-enchanting** — Reworks enchanting into a skill-tree GUI: material costs instead of XP, chiseled bookshelves, world-found Ancient Books unlock branches
   - ⚠ Directly conflicts with mc-dungeons-enchanting (both overhaul the enchanting table) - cannot run both meaningfully; choose one.
 - **iron-bookshelves** — Higher-tier bookshelves (iron/gold/diamond/etc.) that give more enchanting power per block than vanilla
-- **mc-dungeons-enchanting** — Replaces vanilla enchanting table with a Runic Table (random enchant rolls) + Roll Bench (lapis reroll), MC Dungeons-style
-  - ⚠ Fabric-native; needs Sinytra Connector on NeoForge - verify it actually loads in this NeoForge pack. Overlaps/conflicts with immersive-enchanting (both replace the enchant table) - pick one.
 - **quality-equipment** — random quality/stat modifiers on crafted tools & armor, re-rollable at a reforging station
 
 ### Economy & trading  (3)
@@ -413,21 +404,19 @@ _Collapsed — one big ungated flavor ecosystem (Farmer's Delight family + fishi
 
 - **irons-spellbooks-arcane-essence-blocks** — 3 storage/compression blocks (Essence Sack, Arcane Essence Block, Arcane Ingot Block) to stack Arcane Essence in inventory
 
-### Other  (3)
+### Other  (2)
 
 - **end-remastered-additions** — Addon for End Remastered adding extra End-eye sources (fishing/trial/sculk/potato/blossom eyes).
   - ⚠ Blossom Eye source requires Bosses of Mass Destruction (BOMD) - verify BOMD is in pack
 - **midnight-thoughts** — sleep/rest overhaul with a 'Well Rested' buff system
-- **quest-items** — Placeholder/filler items for use as FTB Quest tasks, rewards, and progression keys
-  - ⚠ quest-authoring helper items; multiple mods share this slug (FTB Quests Item Rewards vs Quest Items for FTB) - verify which jar is in pack
 
 ---
 
-# Appendix B — CONFIGURATIONS (180)
+# Appendix B — CONFIGURATIONS (167)
 
 _Adds no tangible object — only changes behaviour or visuals: QoL tweaks, UI/HUD/info, visuals/animation/audio, performance & fixes, control/dev/recipe tools, compat bridges, dependencies, and enchantment abilities. Grouped by kind._
 
-### QoL & convenience  (26)
+### QoL & convenience  (25)
 
 - **better-beacon-placement** — Preview/QoL for placing beacon pyramid base blocks correctly
 - **bettersmithingtable** — Adds a functional smithing-table GUI / QoL smithing tweaks
@@ -447,7 +436,6 @@ _Adds no tangible object — only changes behaviour or visuals: QoL tweaks, UI/H
 - **leaves-be-gone** — Leaves decay/break instantly and drop nothing when disconnected from logs
 - **mekanism-curios** — QoL addon: adds Curios slots to hold the Portable QIO and Portable Teleporter with keybinds for quick access/teleport.
 - **mouse-tweaks** — Drag/scroll inventory mouse actions for faster item movement.
-- **no-mining-cooldown** — Removes the 1.21 mining/attack cooldown so instant-mining works at any speed
 - **polymorph** — Resolves conflicting crafting recipes with a chooser in the crafting GUI.
 - **refined-storage-curios-integration** — Lets RS wireless items (wireless grid, etc.) work from Curios accessory slots
 - **responsiveshields** — removes the shield activation delay so blocking is instant/responsive
@@ -456,7 +444,7 @@ _Adds no tangible object — only changes behaviour or visuals: QoL tweaks, UI/H
 - **trashslot** — A trash slot in the inventory GUI to delete unwanted items.
 - **tree-vein-miner** — Chops whole trees (logs+leaves) when breaking a log while sneaking
 
-### UI, HUD & information  (41)
+### UI, HUD & information  (39)
 
 - **advanced-loot-info** — EMI/JEI/REI plugin displaying loot-table drops and villager trades.
 - **appleskin** — Shows food saturation/hunger restored and exhaustion on the HUD.
@@ -474,8 +462,6 @@ _Adds no tangible object — only changes behaviour or visuals: QoL tweaks, UI/H
 - **emixx** — EMI addon adding extra recipe/info integrations for more mods.
 - **enhanced-boss-bars-mod** — Restyles the boss health bar overlay with more detail.
 - **extra-mod-integrations** — EMI addon adding recipe-viewer integration for additional mods lacking native support.
-- **fancy-health-bar** — Restyled/animated player health bar HUD.
-- **firehud** — Configurable HUD showing extra player stats (coords, FPS, armor, etc.).
 - **item-descriptions** — Adds lore/description text to item tooltips.
 - **items-nbt-viewer** — Shows an item's raw NBT data in its tooltip (dev/debug info).
 - **jade** — Look-at HUD showing block/entity info (WAILA-style tooltip overlay).
@@ -500,7 +486,7 @@ _Adds no tangible object — only changes behaviour or visuals: QoL tweaks, UI/H
 - **wits** — /wits command prints registry names of structures at your location
 - **yukamis-sophisticated-backpack-tab** — Adds a quick-access inventory-screen tab/button to open your equipped Sophisticated Backpack
 
-### Visual, animation & audio  (29)
+### Visual, animation & audio  (25)
 
 - **advancement-plaques** — Fancier toast/plaque animation when earning advancements.
 - **cinematic-cataclysm** — Adds cinematic hit/death and combat visual effects (fdlib-based)
@@ -508,15 +494,12 @@ _Adds no tangible object — only changes behaviour or visuals: QoL tweaks, UI/H
 - **complementary-reimagined** — A high-quality shaderpack (lighting, water, sky) loaded via Iris
 - **cosmetic-armor** — Cosmetic armor slots to override visual appearance without changing stats
 - **drippy-loading-screen** — Customizable/animated game loading screen
-- **eating-animation** — Shows food/drink being consumed with an eating animation and held-item nibbles
 - **euphoria-patches** — Add-on that extends Complementary shaders with extra visual effects/toggles
 - **explosive-enhancement** — Replaces vanilla explosion visuals with fancier particle/shockwave effects
-- **first-person-model** — Renders your own player body/limbs in first-person view
 - **highlight** — Outlines the block you're looking at for precise targeting.
 - **iris** — Shader-pack loader enabling OptiFine-style shaders on modern versions
 - **item-borders** — Draws rarity-colored borders around item slots.
 - **item-highlighter** — Outlines newly picked-up items on the ground/in inventory.
-- **low-fire-reborn** — Lowers the first-person fire overlay so it blocks less of the screen
 - **mekanism-covers** — Cosmetic addon: lets Mekanism transmitters (pipes/cables/tubes) be visually clad in vanilla/modded blocks as covers - pure decoration for factory builds.
 - **mindful-darkness** — Automatic in-game dark mode that darkens GUIs without texture changes.
 - **modelfix** — Fixes gaps/z-fighting in item and block model rendering
@@ -528,7 +511,6 @@ _Adds no tangible object — only changes behaviour or visuals: QoL tweaks, UI/H
 - **stellarview** — Overhauls the night sky with better stars, moon, aurora and shooting stars
 - **tiny-item-animations** — Adds small pickup/movement animations to items in the inventory
 - **visual-workbench** — Crafting table visually displays the items placed in its grid
-- **weaponmaster** — Renders hotbar weapons/tools/shield visibly on the player model
 - **wither-spawn-animation** — Restores/enhances the wither spawn build-up animation
 - **withered-hearts** — Only renders withering hearts when the wither effect will actually harm you.
 
@@ -538,10 +520,9 @@ _Adds no tangible object — only changes behaviour or visuals: QoL tweaks, UI/H
 - **bad-wither-no-cookie** — Silences/localizes the global wither and boss spawn sounds
 - **extreme_sound_muffler** — Lets players mute/muffle specific in-game sounds
 
-### Performance & fixes  (18)
+### Performance & fixes  (16)
 
 - **attributefix** — Removes vanilla attribute min/max caps so modded gear values work
-- **bobby** — Caches chunks client-side to increase view distance beyond server limit
 - **clumps** — Groups nearby XP orbs into single entities to reduce lag
 - **despawn-tweaks** — Configurable mob/item despawn timing to reduce entity buildup
 - **distanthorizons** — LOD system rendering low-detail terrain far beyond vanilla render distance
@@ -557,12 +538,10 @@ _Adds no tangible object — only changes behaviour or visuals: QoL tweaks, UI/H
 - **spark** — Performance/memory profiler for diagnosing lag
 - **stellaris-stellarview-compatibility** — Compat patch making StellarView sky work alongside the Stellaris sky mod
 - **too-fast** — Removes artificial delays (loading terrain screen) for faster world entry
-- **xxl-packets** — Raises the 2MB packet size limit to prevent large-datapack disconnects
 
-### Control, dev & pack-internals  (18)
+### Control, dev & pack-internals  (17)
 
 - **accessdenied** — Gate/disable dimension access behind pack-author requirements
-- **axiom** — In-game creative building/editing toolkit (WorldEdit-like brushes, blueprints)
 - **biome-replacer** — Config-based swapping of one biome for another at worldgen (no new content)
 - **boatview360** — Removes the vanilla camera rotation limit while riding boats
 - **commandkeys** — Bind keybinds to run chat commands/messages
@@ -570,15 +549,15 @@ _Adds no tangible object — only changes behaviour or visuals: QoL tweaks, UI/H
 - **controlling** — Searchable keybind controls menu with conflict detection.
 - **crafttweaker** — Scripting API (ZenScript) for pack authors to add/remove/modify recipes
 - **emendatusenigmatica** — Data-driven material/ore unification framework for pack authors (generates blocks, items, tags, recipes, ore worldgen)
+- **fancymenu** — Customize game menus / title screen; dependency of Drippy Loading Screen.
 - **i-dont-want-to-cheat** — Blocks configured cheaty items/interactions/exploits in the pack
+- **in-control** — Rule-based mob-spawn control (allow/deny/force per dimension/biome).
 - **mekanism-fission-recipe** — Datapack hook to add custom Mekanism fission reactor & coolant recipes
-- **modmenu** — In-game mod list and per-mod config access screen.
 - **neoforge-carpet** — Carpet-style server tweaks/rules and technical toggles for NeoForge
 - **neoreplaymod** — Record, replay, and render camera-path videos of gameplay
 - **sparsestructures** — config to increase spacing between structures
-- **stackdeobf** — Deobfuscates class names in stacktraces/logs for readable crash reports
 - **tweakerge** — Forge/NeoForge port of Tweakeroo: client-side block-placement and misc gameplay tweaks
-- **you-shall-not-spawn** — Config to blacklist/throttle entity spawns per-dimension or globally
+- **worldedit** — In-game world-editing / building command tool (dev/admin).
 
 ### Building & decoration  (3)
 
@@ -586,23 +565,21 @@ _Adds no tangible object — only changes behaviour or visuals: QoL tweaks, UI/H
 - **armor-statues** — Tool to pose/adjust armor stands (arms, rotation, no base) for display builds
 - **plonk** — Place items freely as decorative objects on surfaces
 
-### Exploration & navigation  (8)
+### Exploration & navigation  (7)
 
 - **dynamic-ore-veins** — large snaking ore vein worldgen for existing ores
 - **nightvision-spyglass** — Grants night vision while looking through the spyglass
 - **spyglass-improvements** — Adjustable zoom and QoL tweaks for the vanilla spyglass
-- **useful-spyglass** — Zoom overlay/QoL enhancements for the spyglass
 - **wfs-cave-overhaul** — overhauled/expanded cave worldgen
 - **xaero-train-map** — Shows Create train tracks/stations on Xaero's maps
 - **xaeros-minimap** — In-game minimap with waypoints, mob/player radar and cave mode
 - **xaeros-world-map** — Full-screen self-writing world map with waypoint management
 
-### Movement & transport  (6)
+### Movement & transport  (5)
 
 - **better-climbing** — Ledge grabbing and improved climbing movement mechanics
 - **block-runner** — Speed boost when running on path/road blocks to reward path-building
 - **do-a-barrel-roll** — Unlocked-camera pitch/yaw/roll elytra flight with drifting
-- **official-epic-x-parcool** — Bridges ParCool parkour with Epic Fight animations/combat
 - **parcool** — Parkour movement system: wall-run, vault, climb, roll, dodge
 - **rolling-down-in-the-deep** — Do-a-Barrel-Roll addon giving full 3D roll control while swimming
 
@@ -613,7 +590,7 @@ _Adds no tangible object — only changes behaviour or visuals: QoL tweaks, UI/H
 - **withering-heights** — Datapack overhauling the vanilla Wither: 600 HP, armor, 5 new attacks, boss music, no more flying out of reach.
 - **zombie-awareness** — Smarter zombie/undead AI - mobs sense/track players by sound, smell (blood), and light, and horde toward them.
 
-### Enchantments & enchanting  (10)
+### Enchantments & enchanting  (9)
 
 - **air-jump-enchantment** — New enchantment granting mid-air/double jumps
 - **anti-knockback-enchantment** — New armor enchantment reducing/negating knockback taken
@@ -623,16 +600,15 @@ _Adds no tangible object — only changes behaviour or visuals: QoL tweaks, UI/H
 - **lavawalker** — New boots enchantment turning nearby lava into obsidian/magma to walk on
 - **spectral-enchantment** — New bow enchantment making arrows apply glowing like spectral arrows
 - **swiftness-enchantment** — New armor enchantment granting movement-speed boost
-- **tieredz** — random tier modifier granting bonus stats/abilities on crafted gear, reforgeable at anvil
 - **vision-enchantment** — New enchantment granting night-vision while worn/held
 
 ### Food, farming & cooking  (5)
 
-- **crops-xp** — Grants experience when harvesting fully-grown crops
+- **berlords-food-system** — CUSTOM diet core: Valheim-style stomach/food-diversity buffs + Stomach Extension potion. Intended primary diet system (onion+food-queue to fold in later).
 - **extended-bone-meal** — Bone meal grows more plant types and instantly grows crops while sneaking
 - **fishingoverhaul** — Reworks fishing mechanics/loot and rewards
-- **nutritionz** — Nutrient-category diet system rewarding varied eating with buffs
-- **spice-of-life-valheim-reforged** — Valheim-style limited food-slot diet system granting buffs from eaten foods
+- **life-of-spice-food-queue** — Eaten-food history/queue HUD backing the Spice of Life diet system.
+- **spice-of-life-onion** — Spice of Life diet system: buffs/penalties by variety of foods eaten (no new items).
 
 ### Curios frameworks  (3)
 
@@ -648,3 +624,31 @@ _Adds no tangible object — only changes behaviour or visuals: QoL tweaks, UI/H
 - **cataclysm-x-yungs** — Compat patch integrating Cataclysm loot/mobs into YUNG's structures.
 - **coal-explosion** — Makes mining/igniting coal ore/blocks risk explosions (torches ignite, wrong pickaxe detonates); configurable hazard tweak
 - **tmrv** — Bridge/compat layer letting multiple recipe-viewer APIs coexist.
+
+---
+
+# Appendix C — DECONSTRUCT (21)
+
+_Asset-donor mods: harvested for textures/models/ideas, **not shipped** in the pack. Kept here as a registry so we know where borrowed assets came from._
+
+- **2primogem-craft** — Genshin-style craftables
+- **allaybottle** — Bottle item to capture, carry, and release allays.
+- **create-deep-dark** — Create addon themed on the Deep Dark
+- **diamethysts** — Diamond+amethyst gem gear
+- **dragon-scale** — Dragon-scale armor & materials
+- **dragon-scale-loot** — Dragon-scale loot & gear
+- **dragonsteel-more-magic-series** — Dragonsteel magic materials/gear series
+- **etheria** — Etheria magic dimension/content
+- **evolved-mekanism** — Mekanism content expansion
+- **genshincraft** — Genshin Impact content pack
+- **keepers-of-the-stones-2** — Elemental stone powers & gear
+- **knight-quest** — Medieval knights, bosses & gear
+- **lne-wizards** — L_Ender's wizard mobs & magic
+- **magitech_mod** — Magic-tech fusion content
+- **more-ores-more-gem** — Extra ores & gems
+- **oceanic-weaponry** — Ocean-themed weapons
+- **oxidized** — Oxidized-copper blocks/tools/decor
+- **quest-items** — Placeholder/filler items for use as FTB Quest tasks, rewards, and progression keys
+- **runes** — Rune-crafting magic system
+- **too-many-bricks** — Many brick/block decor variants
+- **warden-tools** — Warden-material tools & gear
