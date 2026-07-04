@@ -48,5 +48,6 @@ pack's classification pipeline), run `python build.py`, and push. Each entry:
 ```json
 { "slug": "...", "adds": "one-line description", "bucket": "content|fluff|configurations|deconstruct",
   "stage": "S1|S2|S3|", "axis": "combat|tech|ui_info|…", "family": "Mekanism|…|",
-  "note": "", "flag": "", "conf": "high|med|low" }
+  "note": "", "flag": "", "conf": "high|med|low",
+  "url": "https://modrinth.com/mod/… (or /datapack/, curseforge.com, github.com)" }
 ```

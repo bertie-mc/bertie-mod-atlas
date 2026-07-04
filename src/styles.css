@@ -328,9 +328,15 @@ body { margin: 0; background: var(--ground); }
 
 .row-top { display: flex; align-items: center; gap: 9px; flex-wrap: wrap; }
 
-.slug { color: var(--ink); font-family: var(--mono); font-size: 13.5px; font-weight: 600; }
+.slug { color: var(--ink); font-family: var(--mono); font-size: 13.5px; font-weight: 600; text-decoration: none; }
 .row.fluff .slug { color: #c7c8d8; font-weight: 500; }
 .row.deconstruct .slug { color: #c9bda8; }
+
+/* The slug is a link to the mod's page (Modrinth / CurseForge / GitHub). */
+a.slug { display: inline-flex; align-items: baseline; gap: 2px; }
+a.slug:hover .name { text-decoration: underline; text-underline-offset: 2px; text-decoration-color: var(--faint); }
+.slug .ext { font-size: 0.8em; color: var(--faint); opacity: 0.5; transition: color 0.12s, opacity 0.12s; }
+a.slug:hover .ext { color: var(--s3); opacity: 1; }
 
 .span {
   padding: 2px 7px;

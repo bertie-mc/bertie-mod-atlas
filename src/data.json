@@ -8,7 +8,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": "high"
+  "conf": "high",
+  "url": "https://modrinth.com/mod/2primogem-craft"
  },
  {
   "slug": "accessdenied",
@@ -19,7 +20,8 @@
   "family": "",
   "note": "",
   "flag": "dimension gating tool; enables progression but is itself a control util, not content",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/accessdenied"
  },
  {
   "slug": "accessories-compat-layer",
@@ -30,7 +32,8 @@
   "family": "",
   "note": "",
   "flag": "Purely a compat framework; could arguably be 'lib' but ruleset names accessories-compat-layer explicitly as fluff framework",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/accessories-compat-layer"
  },
  {
   "slug": "advanced-loot-info",
@@ -41,7 +44,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/advanced-loot-info"
  },
  {
   "slug": "advancement-plaques",
@@ -52,7 +56,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/advancement-plaques"
  },
  {
   "slug": "air-jump-enchantment",
@@ -63,7 +68,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/air-jump-enchantment"
  },
  {
   "slug": "alexs-caves-unofficial-port",
@@ -74,7 +80,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/alexs-caves-unofficial-port"
  },
  {
   "slug": "alexs-mobs",
@@ -85,7 +92,8 @@
   "family": "",
   "note": "",
   "flag": "Predominantly ungated mob-variety/flavor (ruleset → fluff), though it adds real gear + a couple mini-bosses. If author wants any of those items gated, revisit; otherwise fluff.",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/alexs-mobs"
  },
  {
   "slug": "alexs-mobs-extra-music",
@@ -96,7 +104,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/alexs-mobs-extra-music"
  },
  {
   "slug": "allaybottle",
@@ -107,7 +116,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/allaybottle"
  },
  {
   "slug": "amendments",
@@ -118,7 +128,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/amendments"
  },
  {
   "slug": "ancient-forgemastery",
@@ -129,7 +140,8 @@
   "family": "",
   "note": "power-trinket mod (curios-style); listed separately per trinket rule; also functions as an enchantment-manipulation tool",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/ancient-forgemastery"
  },
  {
   "slug": "anti-knockback-enchantment",
@@ -140,7 +152,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/anti-knockback-enchantment"
  },
  {
   "slug": "anvilcraft",
@@ -151,7 +164,8 @@
   "family": "",
   "note": "Locked tentpole (author tentative - RESEARCHED): genuine automation processing mod, anvil-impact crafting scaling into factory lines. Confirmed content.",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/anvilcraft"
  },
  {
   "slug": "appleskin",
@@ -162,7 +176,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/appleskin"
  },
  {
   "slug": "aquaculture",
@@ -173,7 +188,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/aquaculture"
  },
  {
   "slug": "aquaculture-delight",
@@ -184,7 +200,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/aquaculture-delight"
  },
  {
   "slug": "aquatic-creepers",
@@ -195,7 +212,8 @@
   "family": "",
   "note": "",
   "flag": "Explicitly named as fluff in ruleset.",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/aquatic-creepers"
  },
  {
   "slug": "armageddon",
@@ -206,7 +224,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/armageddon"
  },
  {
   "slug": "armor-statues",
@@ -217,7 +236,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/armor-statues"
  },
  {
   "slug": "artifacts",
@@ -228,7 +248,8 @@
   "family": "",
   "note": "Individual power-trinket mod (ruleset names artifacts explicitly). Anchor S1 - dungeon-loot trinkets used from early adventure",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/artifacts"
  },
  {
   "slug": "attack-speed-enchantment",
@@ -239,7 +260,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/attack-speed-enchantment"
  },
  {
   "slug": "attributefix",
@@ -250,7 +272,8 @@
   "family": "",
   "note": "",
   "flag": "acts as a compatibility fix library for other content mods",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/attributefix"
  },
  {
   "slug": "avaritias-delight",
@@ -261,7 +284,8 @@
   "family": "",
   "note": "",
   "flag": "ties to re-avaritia (S4) but is ungated flavor food - still fluff; some items lack recipes/effects (WIP)",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/avaritias-delight"
  },
  {
   "slug": "bad-wither-no-cookie",
@@ -272,7 +296,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/bad-wither-no-cookie"
  },
  {
   "slug": "bartering-station",
@@ -283,7 +308,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/bartering-station"
  },
  {
   "slug": "berlords-food-system",
@@ -294,7 +320,8 @@
   "family": "",
   "note": "",
   "flag": "CUSTOM mod (not on the shared modlist) - added as the core diet system; remove if you don't want it shown.",
-  "conf": "high"
+  "conf": "high",
+  "url": "https://github.com/bertie-mc/berlords-food-system"
  },
  {
   "slug": "berries-and-cherries",
@@ -305,7 +332,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/berries-and-cherries"
  },
  {
   "slug": "better-advancements",
@@ -316,7 +344,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/better-advancements"
  },
  {
   "slug": "better-archeology",
@@ -327,7 +356,8 @@
   "family": "",
   "note": "",
   "flag": "Adds items/mobs but framed as archeology side-content = fluff per archeology rule",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/better-archeology"
  },
  {
   "slug": "better-beacon-placement",
@@ -338,7 +368,8 @@
   "family": "",
   "note": "",
   "flag": "could not fetch page; low-detail slug, best-guess beacon placement helper",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/better-beacon-placement"
  },
  {
   "slug": "better-climbing",
@@ -349,7 +380,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/better-climbing"
  },
  {
   "slug": "better-stats",
@@ -360,7 +392,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/better-stats"
  },
  {
   "slug": "betterend-neoforge",
@@ -371,7 +404,8 @@
   "family": "",
   "note": "",
   "flag": "adds real blocks/items/mobs but as ungated End flavor -> fluff; verify not used as a progression gate",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/betterend-neoforge"
  },
  {
   "slug": "betterf3",
@@ -382,7 +416,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/betterf3"
  },
  {
   "slug": "bettersmithingtable",
@@ -393,7 +428,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/bettersmithingtable"
  },
  {
   "slug": "big-birch-tree",
@@ -404,7 +440,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/big-birch-tree"
  },
  {
   "slug": "big-oak-tree",
@@ -415,7 +452,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/big-oak-tree"
  },
  {
   "slug": "biome-replacer",
@@ -426,7 +464,8 @@
   "family": "",
   "note": "",
   "flag": "pack-internal worldgen config tool",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/biome-replacer"
  },
  {
   "slug": "block-runner",
@@ -437,7 +476,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/block-runner"
  },
  {
   "slug": "boatview360",
@@ -448,7 +488,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/boatview360"
  },
  {
   "slug": "born-in-configuration",
@@ -459,7 +500,8 @@
   "family": "",
   "note": "",
   "flag": "Config/companion jar → lib. Verify it's purely config, no new content.",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/born-in-configuration"
  },
  {
   "slug": "borninchaos",
@@ -470,7 +512,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/borninchaos"
  },
  {
   "slug": "bossesrise",
@@ -481,7 +524,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/bossesrise"
  },
  {
   "slug": "bow-infinity-fix",
@@ -492,7 +536,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/bow-infinity-fix"
  },
  {
   "slug": "brewin-and-chewin",
@@ -503,7 +548,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/brewin-and-chewin"
  },
  {
   "slug": "burnt-basic",
@@ -514,7 +560,8 @@
   "family": "",
   "note": "",
   "flag": "adds a few items but is an ungated fire-mechanic tweak -> fluff",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/burnt-basic"
  },
  {
   "slug": "cable-tiers",
@@ -525,7 +572,8 @@
   "family": "Refined Storage",
   "note": "Rides the RS grid progression; scales with it into late game",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/cable-tiers"
  },
  {
   "slug": "calcmod-neoforged",
@@ -536,7 +584,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/calcmod-neoforged"
  },
  {
   "slug": "cataclysm-spellbooks",
@@ -547,7 +596,8 @@
   "family": "Iron's Spells",
   "note": "Spells themed on Cataclysm bosses; mirrors both parents' S1->S2 combat/boss span",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/cataclysm-spellbooks"
  },
  {
   "slug": "cataclysm-tools",
@@ -558,7 +608,8 @@
   "family": "",
   "note": "",
   "flag": "Verify whether this is the Cataclysm+ content addon (would be content) vs a pure API/tools jar. Slug 'cataclysm-tools' reads as a dependency/tools jar → lib. Double-check in pack.",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/cataclysm-tools"
  },
  {
   "slug": "cataclysm-x-bettercombat-compat",
@@ -569,7 +620,8 @@
   "family": "",
   "note": "",
   "flag": "Pure compat jar, no user-facing content of its own.",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/datapack/cataclysm-x-bettercombat-compat"
  },
  {
   "slug": "cataclysm-x-yungs",
@@ -580,7 +632,8 @@
   "family": "",
   "note": "",
   "flag": "Compat/integration jar → lib. Confirm it's only a bridge, not adding new content.",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/cataclysm-x-yungs"
  },
  {
   "slug": "certain-questing-additions",
@@ -591,7 +644,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/certain-questing-additions"
  },
  {
   "slug": "chalk-mod",
@@ -602,7 +656,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/chalk-mod"
  },
  {
   "slug": "chipped",
@@ -613,7 +668,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/chipped"
  },
  {
   "slug": "chunk-loaders",
@@ -624,7 +680,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/chunk-loaders"
  },
  {
   "slug": "cinematic-cataclysm",
@@ -635,7 +692,8 @@
   "family": "",
   "note": "",
   "flag": "known fdlib shader-load crash - fdshaderfix already ships in pack",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/cinematic-cataclysm"
  },
  {
   "slug": "client-tweaks",
@@ -646,7 +704,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/client-tweaks"
  },
  {
   "slug": "clumps",
@@ -657,7 +716,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/clumps"
  },
  {
   "slug": "coal-explosion",
@@ -668,7 +728,8 @@
   "family": "",
   "note": "",
   "flag": "Ungated cross-stage difficulty/hazard tweak, not a progression gate. Subtype ~ mob/world tweak; classed general fluff.",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/coal-explosion"
  },
  {
   "slug": "cocktails-delight",
@@ -679,7 +740,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/cocktails-delight"
  },
  {
   "slug": "cognition",
@@ -690,7 +752,8 @@
   "family": "",
   "note": "XP-as-power tech ladder tied to Oritech-era machinery; anchor when energy/processing infra comes online.",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/cognition"
  },
  {
   "slug": "combat-effects",
@@ -701,7 +764,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/combat-effects"
  },
  {
   "slug": "comforts",
@@ -712,7 +776,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/comforts"
  },
  {
   "slug": "commandkeys",
@@ -723,7 +788,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/commandkeys"
  },
  {
   "slug": "compact-machines",
@@ -734,7 +800,8 @@
   "family": "",
   "note": "Automation build-space convenience, ungated and cross-stage => fluff; useful in S3/S4 but not on the gated spine",
   "flag": "Could be argued as S3->S4 automation content if factory recipes gate it; author to decide",
-  "conf": ""
+  "conf": "",
+  "url": "https://www.curseforge.com/minecraft/mc-mods/compact-machines"
  },
  {
   "slug": "compactmachinespor",
@@ -745,7 +812,8 @@
   "family": "",
   "note": "Same feature set as compact-machines => fluff",
   "flag": "Likely a DUPLICATE/port of compact-machines - verify only one Compact Machines jar is shipped",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/compactmachinespor"
  },
  {
   "slug": "complementary-reimagined",
@@ -756,7 +824,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/shader/complementary-reimagined"
  },
  {
   "slug": "configmanager",
@@ -767,7 +836,8 @@
   "family": "",
   "note": "",
   "flag": "config utility; generic slug, unverified exact mod",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/configmanager"
  },
  {
   "slug": "controlling",
@@ -778,7 +848,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/controlling"
  },
  {
   "slug": "cosmetic-armor",
@@ -789,7 +860,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/cosmetic-armor"
  },
  {
   "slug": "crabbers-delight",
@@ -800,7 +872,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/crabbers-delight"
  },
  {
   "slug": "crafting-on-a-stick",
@@ -811,7 +884,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/crafting-on-a-stick"
  },
  {
   "slug": "crafttweaker",
@@ -822,7 +896,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/crafttweaker"
  },
  {
   "slug": "crate-delight",
@@ -833,7 +908,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/crate-delight"
  },
  {
   "slug": "create",
@@ -844,7 +920,8 @@
   "family": "",
   "note": "Locked tentpole: contraptions used early, scales into machines stage.",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/create"
  },
  {
   "slug": "create-deep-dark",
@@ -855,7 +932,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": "high"
+  "conf": "high",
+  "url": "https://modrinth.com/mod/create-deep-dark"
  },
  {
   "slug": "creeper-overhaul",
@@ -866,7 +944,8 @@
   "family": "",
   "note": "",
   "flag": "Explicitly named as fluff in ruleset.",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/creeper-overhaul"
  },
  {
   "slug": "cuisine-delight",
@@ -877,7 +956,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/cuisine-delight"
  },
  {
   "slug": "cultural-delights",
@@ -888,7 +968,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/cultural-delights"
  },
  {
   "slug": "curios",
@@ -899,7 +980,8 @@
   "family": "",
   "note": "Locked ruleset: 'curios' itself is a fluff framework, not staged content",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/curios"
  },
  {
   "slug": "curse-of-pandora",
@@ -910,7 +992,8 @@
   "family": "",
   "note": "Individual power-trinket mod (ruleset names curse-of-pandora explicitly as staged content); anchor S1",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/curse-of-pandora"
  },
  {
   "slug": "custom-experience-orbs",
@@ -921,7 +1004,8 @@
   "family": "",
   "note": "",
   "flag": "unverified specifics; XP-orb tweak either way",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/custom-experience-orbs"
  },
  {
   "slug": "cut-through",
@@ -932,7 +1016,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/cut-through"
  },
  {
   "slug": "dark-doppelganger",
@@ -943,7 +1028,8 @@
   "family": "Iron's Spells",
   "note": "Endgame-feel spellcaster boss but BOSS RULE bars S3/S4; files S1, may recur into S2",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/dark-doppelganger"
  },
  {
   "slug": "deep-waters",
@@ -954,7 +1040,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/deep-waters"
  },
  {
   "slug": "deeper-and-darker-spellbooks",
@@ -965,7 +1052,8 @@
   "family": "Iron's Spells",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/deeper-and-darker-spellbooks"
  },
  {
   "slug": "deeperdarker",
@@ -976,7 +1064,8 @@
   "family": "",
   "note": "Deep Dark is an explicitly-named S1 sub-dimension on the spine",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/deeperdarker"
  },
  {
   "slug": "despawn-tweaks",
@@ -987,7 +1076,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/despawn-tweaks"
  },
  {
   "slug": "diagonal-fences",
@@ -998,7 +1088,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/diagonal-fences"
  },
  {
   "slug": "diagonal-walls",
@@ -1009,7 +1100,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/diagonal-walls"
  },
  {
   "slug": "diamethysts",
@@ -1020,7 +1112,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": "high"
+  "conf": "high",
+  "url": "https://modrinth.com/mod/diamethysts!"
  },
  {
   "slug": "diamond-in-the-rough",
@@ -1031,7 +1124,8 @@
   "family": "",
   "note": "",
   "flag": "cosmetic/ore-gen tweak; verify exact features",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/diamond-in-the-rough"
  },
  {
   "slug": "dimensional-dungeons",
@@ -1042,7 +1136,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/dimensional-dungeons"
  },
  {
   "slug": "dis-enchanting-table",
@@ -1053,7 +1148,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/dis-enchanting-table"
  },
  {
   "slug": "discerning-the-eldritch",
@@ -1064,7 +1160,8 @@
   "family": "Iron's Spells",
   "note": "Real spells/mobs/boss/gear (judged on items per STRUCTURE RULE); combat magic anchors S1 with parent",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/discerning-the-eldritch"
  },
  {
   "slug": "distanthorizons",
@@ -1075,7 +1172,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/distanthorizons"
  },
  {
   "slug": "distraction-free-recipes",
@@ -1086,7 +1184,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/distraction-free-recipes"
  },
  {
   "slug": "do-a-barrel-roll",
@@ -1097,7 +1196,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/do-a-barrel-roll"
  },
  {
   "slug": "does-it-tick",
@@ -1108,7 +1208,8 @@
   "family": "",
   "note": "",
   "flag": "dev/diagnostic tool; could be considered control_dev",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/does-it-tick"
  },
  {
   "slug": "dracolotl",
@@ -1119,7 +1220,8 @@
   "family": "",
   "note": "",
   "flag": "a single novelty pet, not a boss/combat progression mod",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/dracolotl"
  },
  {
   "slug": "dragon-scale",
@@ -1130,7 +1232,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": "high"
+  "conf": "high",
+  "url": "https://modrinth.com/mod/dragon-scale"
  },
  {
   "slug": "dragon-scale-loot",
@@ -1141,7 +1244,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": "high"
+  "conf": "high",
+  "url": "https://modrinth.com/mod/dragon-scale-loot"
  },
  {
   "slug": "dragonkind-evolved",
@@ -1152,7 +1256,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/datapack/dragonkind-evolved"
  },
  {
   "slug": "dragonsteel-more-magic-series",
@@ -1163,7 +1268,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": "high"
+  "conf": "high",
+  "url": "https://modrinth.com/mod/dragonsteel-more-magic-series"
  },
  {
   "slug": "drippy-loading-screen",
@@ -1174,7 +1280,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/drippy-loading-screen"
  },
  {
   "slug": "dungeons-and-taverns-woodland-mansion-overhaul",
@@ -1185,7 +1292,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/datapack/dungeons-and-taverns-woodland-mansion-overhaul"
  },
  {
   "slug": "dungeons_delight",
@@ -1196,7 +1304,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/dungeons_delight"
  },
  {
   "slug": "durability-tooltip",
@@ -1207,7 +1316,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/durability-tooltip"
  },
  {
   "slug": "dynamic-ore-veins",
@@ -1218,7 +1328,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/dynamic-ore-veins"
  },
  {
   "slug": "easy-anvils",
@@ -1229,7 +1340,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/easy-anvils"
  },
  {
   "slug": "easy-magic",
@@ -1240,7 +1352,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/easy-magic"
  },
  {
   "slug": "eccentric-tome",
@@ -1251,7 +1364,8 @@
   "family": "",
   "note": "Ungated cross-stage convenience item; not on the progression skeleton.",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/eccentric-tome"
  },
  {
   "slug": "echo-chest",
@@ -1262,7 +1376,8 @@
   "family": "",
   "note": "Fuzs drop/XP-collection convenience block, ungated",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/echo-chest"
  },
  {
   "slug": "echoes-of-the-end",
@@ -1273,7 +1388,8 @@
   "family": "",
   "note": "",
   "flag": "the NeoForge 'echoes-of-the-end' is the structures-only mod (not the Bedrock gear/boss addon); confirm which jar is in pack",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/echoes-of-the-end"
  },
  {
   "slug": "edf-remastered",
@@ -1284,7 +1400,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/datapack/edf-remastered"
  },
  {
   "slug": "elemental-metals-magical-metallurgy-series",
@@ -1295,7 +1412,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/elemental-metals-magical-metallurgy-series"
  },
  {
   "slug": "elevatormod",
@@ -1306,7 +1424,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/elevatormod"
  },
  {
   "slug": "elytra-slot",
@@ -1317,7 +1436,8 @@
   "family": "",
   "note": "Ruleset lists elytra-slot as a fluff framework",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/elytra-slot"
  },
  {
   "slug": "embeddium",
@@ -1328,7 +1448,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/embeddium"
  },
  {
   "slug": "emendatusenigmatica",
@@ -1339,7 +1460,8 @@
   "family": "",
   "note": "",
   "flag": "pack-internal unification framework, not player-facing progression",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/emendatusenigmatica"
  },
  {
   "slug": "emi",
@@ -1350,7 +1472,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/emi"
  },
  {
   "slug": "emi-enchanting",
@@ -1361,7 +1484,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/emi-enchanting"
  },
  {
   "slug": "emi-ores",
@@ -1372,7 +1496,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/emi-ores"
  },
  {
   "slug": "emi-professions",
@@ -1383,7 +1508,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/emi-professions"
  },
  {
   "slug": "emiffect",
@@ -1394,7 +1520,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/emiffect"
  },
  {
   "slug": "emixx",
@@ -1405,7 +1532,8 @@
   "family": "",
   "note": "",
   "flag": "slug 'emixx' ambiguous; likely an EMI add-on providing extra recipe categories",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/emixx"
  },
  {
   "slug": "enchanting-infuser",
@@ -1416,7 +1544,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/enchanting-infuser"
  },
  {
   "slug": "end-remastered-additions",
@@ -1427,7 +1556,8 @@
   "family": "",
   "note": "Pure addon extending endrem's gate; no standalone progression of its own",
   "flag": "Blossom Eye source requires Bosses of Mass Destruction (BOMD) - verify BOMD is in pack",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/end-remastered-additions"
  },
  {
   "slug": "ender-eyes",
@@ -1438,7 +1568,8 @@
   "family": "",
   "note": "",
   "flag": "listing shows Fabric-only - verify a NeoForge 1.21.1 build exists for this pack",
-  "conf": ""
+  "conf": "",
+  "url": "https://github.com/bertie-mc/ender-eyes"
  },
  {
   "slug": "enderio",
@@ -1449,7 +1580,8 @@
   "family": "EnderIO",
   "note": "Locked tentpole; machine+logistics backbone into late game.",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/enderio"
  },
  {
   "slug": "enderio-endergy",
@@ -1460,7 +1592,8 @@
   "family": "EnderIO",
   "note": "Extends EnderIO's tier ladder; filed on EnderIO's span.",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/enderio-endergy"
  },
  {
   "slug": "enderman-overhaul",
@@ -1471,7 +1604,8 @@
   "family": "",
   "note": "",
   "flag": "Explicitly named as fluff in ruleset.",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/enderman-overhaul"
  },
  {
   "slug": "enders-delight",
@@ -1482,7 +1616,8 @@
   "family": "",
   "note": "",
   "flag": "very similar name to ends-delight - confirm both present and not duplicates",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/enders-delight"
  },
  {
   "slug": "endrem",
@@ -1493,7 +1628,8 @@
   "family": "",
   "note": "Progression GATE to the End; anchors early as an exploration/collection gate before the dragon",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/endrem"
  },
  {
   "slug": "ends-delight",
@@ -1504,7 +1640,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/ends-delight"
  },
  {
   "slug": "energymeter",
@@ -1515,7 +1652,8 @@
   "family": "",
   "note": "",
   "flag": "Pure diagnostic/info utility, ungated cross-stage - no progression.",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/energymeter"
  },
  {
   "slug": "enhanced-boss-bars-mod",
@@ -1526,7 +1664,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/enhanced-boss-bars-mod"
  },
  {
   "slug": "enigmaticlegacy",
@@ -1537,7 +1676,8 @@
   "family": "",
   "note": "Power-trinket progression (each relic a distinct upgrade); anchors S1 combat, relics keep scaling into S2.",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/enigmaticlegacy"
  },
  {
   "slug": "entangled",
@@ -1548,7 +1688,8 @@
   "family": "",
   "note": "SuperMartijn642 wireless-inventory-linking convenience, ungated across stages",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/entangled"
  },
  {
   "slug": "epic-structures-witch-huts",
@@ -1559,7 +1700,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/datapack/epic-structures-witch-huts"
  },
  {
   "slug": "etched",
@@ -1570,7 +1712,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/etched"
  },
  {
   "slug": "etheria",
@@ -1581,7 +1724,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": "high"
+  "conf": "high",
+  "url": "https://modrinth.com/mod/etheria"
  },
  {
   "slug": "euphoria-patches",
@@ -1592,7 +1736,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/euphoria-patches"
  },
  {
   "slug": "evolved-mekanism",
@@ -1603,7 +1748,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": "high"
+  "conf": "high",
+  "url": "https://modrinth.com/mod/evolved-mekanism"
  },
  {
   "slug": "expanded-delight",
@@ -1614,7 +1760,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/expanded-delight"
  },
  {
   "slug": "explorers-compass",
@@ -1625,7 +1772,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/explorers-compass"
  },
  {
   "slug": "explosive-enhancement",
@@ -1636,7 +1784,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://github.com/bertie-mc/explosive-enhancement"
  },
  {
   "slug": "exposure",
@@ -1647,7 +1796,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/exposure"
  },
  {
   "slug": "exposure-expanded",
@@ -1658,7 +1808,8 @@
   "family": "",
   "note": "",
   "flag": "addon to Exposure; purely cosmetic photography content",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/exposure-expanded"
  },
  {
   "slug": "exposure-polaroid",
@@ -1669,7 +1820,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/exposure-polaroid"
  },
  {
   "slug": "extended-bone-meal",
@@ -1680,7 +1832,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/extended-bone-meal"
  },
  {
   "slug": "extended-crafting",
@@ -1691,7 +1844,8 @@
   "family": "Avaritia / Extended Crafting",
   "note": "Genuine crafting-tier progression that gates late/endgame recipes",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/extended-crafting"
  },
  {
   "slug": "extra-disks",
@@ -1702,7 +1856,8 @@
   "family": "Refined Storage",
   "note": "Capacity gate that matters most in late-game mass storage",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/extra-disks"
  },
  {
   "slug": "extra-mod-integrations",
@@ -1713,7 +1868,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/extra-mod-integrations"
  },
  {
   "slug": "extradelight",
@@ -1724,7 +1880,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/extradelight"
  },
  {
   "slug": "extreme_sound_muffler",
@@ -1735,7 +1892,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/extreme_sound_muffler"
  },
  {
   "slug": "fancymenu",
@@ -1746,7 +1904,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": "high"
+  "conf": "high",
+  "url": "https://modrinth.com/mod/fancymenu"
  },
  {
   "slug": "fantasy_armor",
@@ -1757,7 +1916,8 @@
   "family": "",
   "note": "netherite-gated, so anchors mid-S1 combat rather than the very start",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/fantasy_armor"
  },
  {
   "slug": "farmers-delight",
@@ -1768,7 +1928,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/farmers-delight"
  },
  {
   "slug": "farmers-knives",
@@ -1779,7 +1940,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/farmers-knives"
  },
  {
   "slug": "farmers-pizzeria",
@@ -1790,7 +1952,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/farmers-pizzeria"
  },
  {
   "slug": "ferrite-core",
@@ -1801,7 +1964,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/ferrite-core"
  },
  {
   "slug": "feur-extension-desert",
@@ -1812,7 +1976,8 @@
   "family": "",
   "note": "",
   "flag": "tags list mobs but content is decoration/structures only; verify no combat mobs added",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/feur-extension-desert"
  },
  {
   "slug": "fishingoverhaul",
@@ -1823,7 +1988,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/fishingoverhaul"
  },
  {
   "slug": "flight-ring",
@@ -1834,7 +2000,8 @@
   "family": "",
   "note": "Ruleset names flight-ring explicitly as an individual staged power-trinket; anchor S1 (movement power-trinket)",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/flight-ring"
  },
  {
   "slug": "forbidden-arcanus",
@@ -1845,7 +2012,8 @@
   "family": "",
   "note": "LOCKED tentpole anchor (5 altar tiers) - placed verbatim, not re-evaluated.",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/forbidden-arcanus"
  },
  {
   "slug": "frights-delight",
@@ -1856,7 +2024,8 @@
   "family": "",
   "note": "",
   "flag": "niche; confident it is a themed Farmer's Delight food addon",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/frights-delight"
  },
  {
   "slug": "genshincraft",
@@ -1867,7 +2036,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": "high"
+  "conf": "high",
+  "url": "https://modrinth.com/mod/genshincraft"
  },
  {
   "slug": "gensokyo-delight-youkais-feasts",
@@ -1878,7 +2048,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/gensokyo-delight-youkais-feasts"
  },
  {
   "slug": "giant-cherry-blossom-bonsai-tree",
@@ -1889,7 +2060,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/giant-cherry-blossom-bonsai-tree"
  },
  {
   "slug": "giant-dead-oak-tree",
@@ -1900,7 +2072,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/giant-dead-oak-tree"
  },
  {
   "slug": "giant-snowy-tree",
@@ -1911,7 +2084,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/giant-snowy-tree"
  },
  {
   "slug": "giant-tree-stump",
@@ -1922,7 +2096,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/giant-tree-stump"
  },
  {
   "slug": "glassbreaker",
@@ -1933,7 +2108,8 @@
   "family": "",
   "note": "",
   "flag": "unverified; treated as glass-drop QoL",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/glassbreaker"
  },
  {
   "slug": "golem-dungeons",
@@ -1944,7 +2120,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/golem-dungeons"
  },
  {
   "slug": "gravelminer",
@@ -1955,7 +2132,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/gravelminer"
  },
  {
   "slug": "hand-over-your-items",
@@ -1966,7 +2144,8 @@
   "family": "",
   "note": "",
   "flag": "exact behavior unverified; QoL interaction mod either way",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/hand-over-your-items"
  },
  {
   "slug": "handcrafted",
@@ -1977,7 +2156,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/handcrafted"
  },
  {
   "slug": "hang-glider",
@@ -1988,7 +2168,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/hang-glider"
  },
  {
   "slug": "hazen-n-stuff",
@@ -1999,7 +2180,8 @@
   "family": "Iron's Spells",
   "note": "Extends Iron's Spells gear/spell progression; anchors S1 with parent (combat-before-automation)",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/hazen-n-stuff"
  },
  {
   "slug": "hellish-trials",
@@ -2010,7 +2192,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/hellish-trials"
  },
  {
   "slug": "highlight",
@@ -2021,7 +2204,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/highlight"
  },
  {
   "slug": "hole-filler-mod",
@@ -2032,7 +2216,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/hole-filler-mod"
  },
  {
   "slug": "hooked",
@@ -2043,7 +2228,8 @@
   "family": "",
   "note": "",
   "flag": "Overlaps with toffys-hooks; confirm which grappling mod is intended",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/hooked"
  },
  {
   "slug": "hopo-better-ruined-portals",
@@ -2054,7 +2240,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/datapack/hopo-better-ruined-portals"
  },
  {
   "slug": "hopo-better-underwater-ruins",
@@ -2065,7 +2252,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/datapack/hopo-better-underwater-ruins"
  },
  {
   "slug": "hostile-neural-networks",
@@ -2076,7 +2264,8 @@
   "family": "",
   "note": "Locked tentpole verbatim: S3",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://www.curseforge.com/minecraft/mc-mods/hostile-neural-networks"
  },
  {
   "slug": "i-dont-want-to-cheat",
@@ -2087,7 +2276,8 @@
   "family": "",
   "note": "",
   "flag": "pack-internal anti-exploit config; unverified exact scope",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/i-dont-want-to-cheat"
  },
  {
   "slug": "ice-and-fire-spellbooks",
@@ -2098,7 +2288,8 @@
   "family": "Iron's Spells",
   "note": "Adds combat magic gear (armor/staff/spellbook); anchors S1, though gated by Ice-and-Fire dragon progression",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/ice-and-fire-spellbooks"
  },
  {
   "slug": "iceandfire-ce",
@@ -2109,7 +2300,8 @@
   "family": "Ice & Fire",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/iceandfire-ce"
  },
  {
   "slug": "iceandfire_smithing",
@@ -2120,7 +2312,8 @@
   "family": "Ice & Fire",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/datapack/iceandfire_smithing"
  },
  {
   "slug": "illager-invasion",
@@ -2131,7 +2324,8 @@
   "family": "",
   "note": "",
   "flag": "Non-boss mob variety (illager types) → fluff per ruleset, even though Invoker is a mini-boss.",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/illager-invasion"
  },
  {
   "slug": "immersive-armors",
@@ -2142,7 +2336,8 @@
   "family": "",
   "note": "IA 1.7.6 frozen-registry crash fixed via frozenregfix mixin per memory",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/immersive-armors"
  },
  {
   "slug": "immersive-enchanting",
@@ -2153,7 +2348,8 @@
   "family": "",
   "note": "",
   "flag": "Directly conflicts with mc-dungeons-enchanting (both overhaul the enchanting table) - cannot run both meaningfully; choose one.",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/immersive-enchanting"
  },
  {
   "slug": "immersive-gateways",
@@ -2164,7 +2360,8 @@
   "family": "",
   "note": "",
   "flag": "exploration/travel structures, NOT the combat 'Gateways to Eternity'",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/immersive-gateways"
  },
  {
   "slug": "improved-pillager-outpost",
@@ -2175,7 +2372,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/datapack/improved-pillager-outpost"
  },
  {
   "slug": "in-control",
@@ -2186,7 +2384,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": "high"
+  "conf": "high",
+  "url": "https://modrinth.com/mod/in-control"
  },
  {
   "slug": "incendium",
@@ -2197,7 +2396,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/datapack/incendium"
  },
  {
   "slug": "interdimensional-wireless-transmitter",
@@ -2208,7 +2408,8 @@
   "family": "Refined Storage",
   "note": "Same cross-dim reach role as the infinity booster; RS-network gated",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/interdimensional-wireless-transmitter"
  },
  {
   "slug": "inventorio",
@@ -2219,7 +2420,8 @@
   "family": "",
   "note": "",
   "flag": "Fabric-origin mod; confirm a working NeoForge 1.21.1 build (or Sinytra) exists in the pack.",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/inventorio"
  },
  {
   "slug": "inventory-management-deluxe",
@@ -2230,7 +2432,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://www.curseforge.com/minecraft/mc-mods/inventory-management-deluxe"
  },
  {
   "slug": "invmove",
@@ -2241,7 +2444,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/invmove"
  },
  {
   "slug": "invmovecompats",
@@ -2252,7 +2456,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/invmovecompats"
  },
  {
   "slug": "iris",
@@ -2263,7 +2468,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/iris"
  },
  {
   "slug": "iron-bookshelves",
@@ -2274,7 +2480,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/iron-bookshelves"
  },
  {
   "slug": "irons-spellbooks-arcane-essence-blocks",
@@ -2285,7 +2492,8 @@
   "family": "",
   "note": "Pure inventory-compression QoL, ungated, cross-stage - storage-convenience fluff not logistics automation",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/irons-spellbooks-arcane-essence-blocks"
  },
  {
   "slug": "irons-spells-n-spellbooks",
@@ -2296,7 +2504,8 @@
   "family": "Iron's Spells",
   "note": "LOCKED tentpole anchor per author - combat magic, do not re-place",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/irons-spells-n-spellbooks"
  },
  {
   "slug": "irons-spells-n-spellbooks-restrictions",
@@ -2307,7 +2516,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/irons-spells-n-spellbooks-restrictions"
  },
  {
   "slug": "item-borders",
@@ -2318,7 +2528,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/item-borders"
  },
  {
   "slug": "item-collectors",
@@ -2329,7 +2540,8 @@
   "family": "",
   "note": "SuperMartijn642 farm/drop-collection convenience; orthogonal to progression",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/item-collectors"
  },
  {
   "slug": "item-descriptions",
@@ -2340,7 +2552,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/item-descriptions"
  },
  {
   "slug": "item-highlighter",
@@ -2351,7 +2564,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/item-highlighter"
  },
  {
   "slug": "items-nbt-viewer",
@@ -2362,7 +2576,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/items-nbt-viewer"
  },
  {
   "slug": "jade",
@@ -2373,7 +2588,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/jade"
  },
  {
   "slug": "jade-addons-forge",
@@ -2384,7 +2600,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/jade-addons-forge"
  },
  {
   "slug": "kaleidoscope-doll",
@@ -2395,7 +2612,8 @@
   "family": "",
   "note": "",
   "flag": "uses diamond tokens but ungated collectible cosmetic, not progression",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/kaleidoscope-doll"
  },
  {
   "slug": "keepers-of-the-stones-2",
@@ -2406,7 +2624,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": "high"
+  "conf": "high",
+  "url": "https://modrinth.com/mod/keepers-of-the-stones-2"
  },
  {
   "slug": "knight-quest",
@@ -2417,7 +2636,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": "high"
+  "conf": "high",
+  "url": "https://modrinth.com/mod/knight-quest"
  },
  {
   "slug": "l2hostility",
@@ -2428,7 +2648,8 @@
   "family": "",
   "note": "Reality Index 0-7 gates artifact tiers (real progression); also scales mob difficulty.",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/l2hostility"
  },
  {
   "slug": "l_enders-cataclysm",
@@ -2439,7 +2660,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/l_enders-cataclysm"
  },
  {
   "slug": "l_enders-cataclysm-delight",
@@ -2450,7 +2672,8 @@
   "family": "",
   "note": "",
   "flag": "food addon only - the boss content is L_Ender's Cataclysm itself (locked S1->S2)",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/l_enders-cataclysm-delight"
  },
  {
   "slug": "laser-bridges-and-doors",
@@ -2461,7 +2684,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/laser-bridges-and-doors"
  },
  {
   "slug": "lavawalker",
@@ -2472,7 +2696,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/lavawalker"
  },
  {
   "slug": "leaves-be-gone",
@@ -2483,7 +2708,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/leaves-be-gone"
  },
  {
   "slug": "life-of-spice-food-queue",
@@ -2494,7 +2720,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": "high"
+  "conf": "high",
+  "url": "https://modrinth.com/mod/life-of-spice-food-queue"
  },
  {
   "slug": "lmd",
@@ -2505,7 +2732,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/plugin/lmd"
  },
  {
   "slug": "lne-wizards",
@@ -2516,7 +2744,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": "high"
+  "conf": "high",
+  "url": "https://modrinth.com/mod/lne-wizards"
  },
  {
   "slug": "lootr",
@@ -2527,7 +2756,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/lootr"
  },
  {
   "slug": "lukis-ancient-cities",
@@ -2538,7 +2768,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/datapack/lukis-ancient-cities"
  },
  {
   "slug": "lukis-crazy-chambers",
@@ -2549,7 +2780,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/datapack/lukis-crazy-chambers"
  },
  {
   "slug": "macaws-doors",
@@ -2560,7 +2792,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/macaws-doors"
  },
  {
   "slug": "macaws-trapdoors",
@@ -2571,7 +2804,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/macaws-trapdoors"
  },
  {
   "slug": "magic-coins",
@@ -2582,7 +2816,8 @@
   "family": "",
   "note": "",
   "flag": "v1.1.0+ depends on SG Economy API - verify that dependency is in pack",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/magic-coins"
  },
  {
   "slug": "magic-of-color",
@@ -2593,7 +2828,8 @@
   "family": "Iron's Spells",
   "note": "Pure Pastel<->Iron's-Spells integration bridge; no standalone progression of its own.",
   "flag": "Compat glue only - depends on both pastel-mod and irons-spells; keep only if both present.",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/magic-of-color"
  },
  {
   "slug": "magitech_mod",
@@ -2604,7 +2840,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": "high"
+  "conf": "high",
+  "url": "https://modrinth.com/mod/magitech_mod"
  },
  {
   "slug": "magnum-torch",
@@ -2615,7 +2852,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/magnum-torch"
  },
  {
   "slug": "malstone",
@@ -2626,7 +2864,8 @@
   "family": "Malum",
   "note": "Rides Malum's progression; tiny addon, cycles with Malum. Content only because it extends a staged mod.",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/malstone"
  },
  {
   "slug": "malum",
@@ -2637,7 +2876,8 @@
   "family": "Malum",
   "note": "LOCKED tentpole anchor - placed verbatim.",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/malum"
  },
  {
   "slug": "malum-vestis",
@@ -2648,7 +2888,8 @@
   "family": "Malum",
   "note": "",
   "flag": "",
-  "conf": "high"
+  "conf": "high",
+  "url": "https://www.curseforge.com/minecraft/mc-mods/malum-vestis"
  },
  {
   "slug": "mekanism",
@@ -2659,7 +2900,8 @@
   "family": "Mekanism",
   "note": "Locked tentpole: mekanism S2->S4 (many tiers via addons). Ore-doubling/factories mid, QIO storage + Meka-Suit + digital miner scale into late.",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/mekanism"
  },
  {
   "slug": "mekanism-additions",
@@ -2670,7 +2912,8 @@
   "family": "Mekanism",
   "note": "Official Mekanism sub-module; rides the same S2->S4 tech spine. Some cosmetic plastic blocks but shipped as part of the tech progression package.",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/mekanism-additions"
  },
  {
   "slug": "mekanism-covers",
@@ -2681,7 +2924,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/mekanism-covers"
  },
  {
   "slug": "mekanism-curios",
@@ -2692,7 +2936,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/mekanism-curios"
  },
  {
   "slug": "mekanism-fission-recipe",
@@ -2703,7 +2948,8 @@
   "family": "",
   "note": "",
   "flag": "enables custom Mekanism recipes; a tool, not content itself",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/mekanism-fission-recipe"
  },
  {
   "slug": "mekanism-generators",
@@ -2714,7 +2960,8 @@
   "family": "Mekanism",
   "note": "Early generators feed S2 machines; Fission/Fusion reactor multiblocks are S3->S4 endgame power. Spans the full tech arc.",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/mekanism-generators"
  },
  {
   "slug": "mekanism-ponders",
@@ -2725,7 +2972,8 @@
   "family": "",
   "note": "",
   "flag": "Requires the Ponder library; harmless but confirm Ponder/Create is present in-pack.",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/mekanism-ponders"
  },
  {
   "slug": "mekanism-tools",
@@ -2736,7 +2984,8 @@
   "family": "Mekanism",
   "note": "Alloy/refined tool+armor sets + paxel; usable as soon as you have base Mekanism metals. Combat gear -> anchors S1 per combat-before-automation. Superseded by Meka-Suit late.",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/mekanism-tools"
  },
  {
   "slug": "mekanism_extra",
@@ -2747,7 +2996,8 @@
   "family": "Mekanism",
   "note": "Naquadah ore mines in Overworld/End (S2), 64-stack factories + tier installers extend Mekanism; Naquadah reactor is S4 power. NOTE: 3rd-party addon, verify NeoForge 1.21.1 load.",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/mekanism_extra"
  },
  {
   "slug": "mekanismmoremachine",
@@ -2758,7 +3008,8 @@
   "family": "Mekanism",
   "note": "Planting-station/scrapper open ~S2-S3; UU-matter replicator is S4. WARNING: UU-matter is a 'resources-from-nothing' path that OVERLAPS your MMR plan - decide how they coexist. Also references Mystical Agriculture (not in pack) - that feature may be dead.",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/mekanismmoremachine"
  },
  {
   "slug": "mes-moogs-end-structures",
@@ -2769,7 +3020,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/mes-moogs-end-structures"
  },
  {
   "slug": "midnight-thoughts",
@@ -2780,7 +3032,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/midnight-thoughts"
  },
  {
   "slug": "mindful-darkness",
@@ -2791,7 +3044,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/mindful-darkness"
  },
  {
   "slug": "miners-delight",
@@ -2802,7 +3056,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/miners-delight"
  },
  {
   "slug": "mmmmmmmmmmmm",
@@ -2813,7 +3068,8 @@
   "family": "",
   "note": "combat testing utility, not progression; by MehVahdJukaar",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/mmmmmmmmmmmm"
  },
  {
   "slug": "mob-lassos",
@@ -2824,7 +3080,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/mob-lassos"
  },
  {
   "slug": "mob-plaques",
@@ -2835,7 +3092,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/mob-plaques"
  },
  {
   "slug": "mobtimizations",
@@ -2846,7 +3104,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/mobtimizations"
  },
  {
   "slug": "modelfix",
@@ -2857,7 +3116,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/modelfix"
  },
  {
   "slug": "modernfix",
@@ -2868,7 +3128,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/modernfix"
  },
  {
   "slug": "modular-machinery-reborn",
@@ -2879,7 +3140,8 @@
   "family": "Modular Machinery",
   "note": "Locked tentpole verbatim: S3->S4 thin-air engine",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/modular-machinery-reborn"
  },
  {
   "slug": "modular-machinery-reborn-mekanism",
@@ -2890,7 +3152,8 @@
   "family": "Modular Machinery",
   "note": "Extends MMR's late-game engine; follows MMR span. Requires MMR + Mekanism",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/modular-machinery-reborn-mekanism"
  },
  {
   "slug": "moogs-voyager-structures",
@@ -2901,7 +3164,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/moogs-voyager-structures"
  },
  {
   "slug": "more-brushes",
@@ -2912,7 +3176,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/more-brushes"
  },
  {
   "slug": "more-concrete",
@@ -2923,7 +3188,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/more-concrete"
  },
  {
   "slug": "more-delight",
@@ -2934,7 +3200,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/more-delight"
  },
  {
   "slug": "more-ores-more-gem",
@@ -2945,7 +3212,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": "high"
+  "conf": "high",
+  "url": "https://modrinth.com/mod/more-ores-more-gem"
  },
  {
   "slug": "mouse-tweaks",
@@ -2956,7 +3224,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/mouse-tweaks"
  },
  {
   "slug": "my-nethers-delight",
@@ -2967,7 +3236,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/my-nethers-delight"
  },
  {
   "slug": "mystical-oak-tree",
@@ -2978,7 +3248,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/mystical-oak-tree"
  },
  {
   "slug": "myths-and-legends",
@@ -2989,7 +3260,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/myths-and-legends"
  },
  {
   "slug": "nameless-trinkets",
@@ -3000,7 +3272,8 @@
   "family": "",
   "note": "Individual power-trinket mod (ruleset: list separately as staged content). Anchors S1 - powerful abilities used from early exploration; abilities stay relevant later",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/nameless-trinkets"
  },
  {
   "slug": "natures-compass",
@@ -3011,7 +3284,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/natures-compass"
  },
  {
   "slug": "neat",
@@ -3022,7 +3296,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/neat"
  },
  {
   "slug": "nekos-enchanted-books",
@@ -3033,7 +3308,8 @@
   "family": "",
   "note": "",
   "flag": "pack uses custom NeoForge port 'nebs'; verify which jar is shipped",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/nekos-enchanted-books"
  },
  {
   "slug": "neoforge-carpet",
@@ -3044,7 +3320,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/neoforge-carpet"
  },
  {
   "slug": "neoreplaymod",
@@ -3055,7 +3332,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/neoreplaymod"
  },
  {
   "slug": "nether-chested",
@@ -3066,7 +3344,8 @@
   "family": "",
   "note": "Standalone convenience storage, ungated flavor",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/nether-chested"
  },
  {
   "slug": "nether-depths-upgrade",
@@ -3077,7 +3356,8 @@
   "family": "",
   "note": "",
   "flag": "adds mobs but they are non-boss aquatic variety + fishing/food - fluff by mob-variety/food rule",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/nether-depths-upgrade"
  },
  {
   "slug": "nightvision-spyglass",
@@ -3088,7 +3368,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/nightvision-spyglass"
  },
  {
   "slug": "nightworld",
@@ -3099,7 +3380,8 @@
   "family": "",
   "note": "Ungated orthogonal dimension; no progression gating => fluff exploration flavor",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/nightworld"
  },
  {
   "slug": "noisium",
@@ -3110,7 +3392,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/noisium"
  },
  {
   "slug": "notenoughcrashes",
@@ -3121,7 +3404,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/notenoughcrashes"
  },
  {
   "slug": "notenoughrecipebook",
@@ -3132,7 +3416,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/notenoughrecipebook"
  },
  {
   "slug": "nullscape",
@@ -3143,7 +3428,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/datapack/nullscape"
  },
  {
   "slug": "oceanic-weaponry",
@@ -3154,7 +3440,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": "high"
+  "conf": "high",
+  "url": "https://modrinth.com/mod/oceanic-weaponry"
  },
  {
   "slug": "oceans-delight",
@@ -3165,7 +3452,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/oceans-delight"
  },
  {
   "slug": "oh-the-biomes-weve-gone",
@@ -3176,7 +3464,8 @@
   "family": "",
   "note": "",
   "flag": "adds a few passive mobs/blocks but ungated flavor -> fluff",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/oh-the-biomes-weve-gone"
  },
  {
   "slug": "omnitools",
@@ -3187,7 +3476,8 @@
   "family": "",
   "note": "",
   "flag": "NOT a combat tool despite the block name; machine-utility QoL, ungated",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/omnitools"
  },
  {
   "slug": "optitritium",
@@ -3198,7 +3488,8 @@
   "family": "",
   "note": "",
   "flag": "broad optimization mod; verify 1.21.1 NeoForge compatibility and overlap with embeddium",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/optitritium"
  },
  {
   "slug": "oritech",
@@ -3209,7 +3500,8 @@
   "family": "Oritech",
   "note": "Locked tentpole (->S3 potential); deep automation+processing ladder.",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/oritech"
  },
  {
   "slug": "oritech-things",
@@ -3220,7 +3512,8 @@
   "family": "Oritech",
   "note": "",
   "flag": "Hard dependency on Oritech; utility addon blocks only, no standalone progression - ships with Oritech content.",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/oritech-things"
  },
  {
   "slug": "overflowing-bars",
@@ -3231,7 +3524,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/overflowing-bars"
  },
  {
   "slug": "oxidized",
@@ -3242,7 +3536,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": "high"
+  "conf": "high",
+  "url": "https://modrinth.com/mod/oxidized"
  },
  {
   "slug": "packagedavaritia",
@@ -3253,7 +3548,8 @@
   "family": "Avaritia / Extended Crafting",
   "note": "Automation layer over re-avaritia endgame; files where re-avaritia lands (S4). Depends on PackagedAuto core (not in this block)",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/packagedavaritia"
  },
  {
   "slug": "packagedexcrafting",
@@ -3264,7 +3560,8 @@
   "family": "Avaritia / Extended Crafting",
   "note": "Automation layer over extended-crafting; follows its span. Depends on PackagedAuto core (not in this block)",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/packagedexcrafting"
  },
  {
   "slug": "packagedmekemicals",
@@ -3275,7 +3572,8 @@
   "family": "Avaritia / Extended Crafting",
   "note": "Chemical-logistics automation glue for the late factory; depends on PackagedAuto + Mekanism",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/packagedmekemicals"
  },
  {
   "slug": "parcool",
@@ -3286,7 +3584,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/parcool"
  },
  {
   "slug": "particle-effects",
@@ -3297,7 +3596,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/particle-effects"
  },
  {
   "slug": "particle-rain",
@@ -3308,7 +3608,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/particle-rain"
  },
  {
   "slug": "pastel-mod",
@@ -3319,7 +3620,8 @@
   "family": "",
   "note": "Self-contained multi-stage journey (early color magic -> machinery/contraptions -> hidden dimension); anchors S1, machinery/dimension push into S2->S3.",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/pastel-mod"
  },
  {
   "slug": "per-spatium",
@@ -3330,7 +3632,8 @@
   "family": "",
   "note": "Structure-only addon (loot borrowed) => fluff; depends on stellaris/ad-astra",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/per-spatium"
  },
  {
   "slug": "pick-up-notifier",
@@ -3341,7 +3644,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/pick-up-notifier"
  },
  {
   "slug": "piglin-proliferation",
@@ -3352,7 +3656,8 @@
   "family": "",
   "note": "",
   "flag": "Explicitly named as fluff in ruleset.",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/piglin-proliferation"
  },
  {
   "slug": "pillager-caravans",
@@ -3363,7 +3668,8 @@
   "family": "",
   "note": "",
   "flag": "Roaming-mob + loot flavor, ungated → fluff (mob-variety/nav-explore).",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/pillager-caravans"
  },
  {
   "slug": "ping-wheel",
@@ -3374,7 +3680,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/ping-wheel"
  },
  {
   "slug": "plonk",
@@ -3385,7 +3692,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/plonk"
  },
  {
   "slug": "pocket-dimension-1.20.1",
@@ -3396,7 +3704,8 @@
   "family": "",
   "note": "Ungated personal build-space dimension => fluff",
   "flag": "Slug says 1.20.1 - verify a 1.21.1 build exists / actually in pack",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/pocket-dimension-1.20.1"
  },
  {
   "slug": "polymorph",
@@ -3407,7 +3716,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/polymorph"
  },
  {
   "slug": "powah",
@@ -3418,7 +3728,8 @@
   "family": "",
   "note": "Locked tentpole; all tiers span into late-game power.",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/powah"
  },
  {
   "slug": "qliphoth-awakening",
@@ -3429,7 +3740,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/qliphoth-awakening"
  },
  {
   "slug": "quality-equipment",
@@ -3440,7 +3752,8 @@
   "family": "",
   "note": "reforge/stat-modifier layer like enchanting = ungated cross-stage; flagged in memory for TPS cost (fulltest-perf-profile)",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/quality-equipment"
  },
  {
   "slug": "quark",
@@ -3451,7 +3764,8 @@
   "family": "",
   "note": "",
   "flag": "Quark Auto Walk Keybind MUST be false per pack memory to avoid crash",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/quark"
  },
  {
   "slug": "quest-items",
@@ -3462,7 +3776,8 @@
   "family": "",
   "note": "",
   "flag": "quest-authoring helper items; multiple mods share this slug (FTB Quests Item Rewards vs Quest Items for FTB) - verify which jar is in pack",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/quest-items"
  },
  {
   "slug": "railways-untold",
@@ -3473,7 +3788,8 @@
   "family": "",
   "note": "",
   "flag": "Create addon but purely worldgen structures + navigation, no progression.",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/railways-untold"
  },
  {
   "slug": "ranged-wireless-redstone",
@@ -3484,7 +3800,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/ranged-wireless-redstone"
  },
  {
   "slug": "re-avaritia",
@@ -3495,7 +3812,8 @@
   "family": "Avaritia / Extended Crafting",
   "note": "Locked tentpole: S4, may span DOWN to S2 or even S1 - span TBD per author",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/re-avaritia"
  },
  {
   "slug": "reconnectible-chains",
@@ -3506,7 +3824,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/reconnectible-chains"
  },
  {
   "slug": "refined-storage",
@@ -3517,7 +3836,8 @@
   "family": "Refined Storage",
   "note": "LOCKED tentpole anchor S2->S4 per author",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/refined-storage"
  },
  {
   "slug": "refined-storage-curios-integration",
@@ -3528,7 +3848,8 @@
   "family": "",
   "note": "",
   "flag": "Convenience compat layer for Curios slots",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/refined-storage-curios-integration"
  },
  {
   "slug": "refined-storage-emi-integration",
@@ -3539,7 +3860,8 @@
   "family": "",
   "note": "",
   "flag": "UI/recipe-viewer bridge, no gated content - ties into the separate EMI-integration project",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/refined-storage-emi-integration"
  },
  {
   "slug": "refined-storage-mekanism-integration",
@@ -3550,7 +3872,8 @@
   "family": "Refined Storage",
   "note": "Couples two locked tentpoles (RS + Mekanism); relevant once Mekanism chemistry is online",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/refined-storage-mekanism-integration"
  },
  {
   "slug": "refined-storage-quartz-arsenal",
@@ -3561,7 +3884,8 @@
   "family": "Refined Storage",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/refined-storage-quartz-arsenal"
  },
  {
   "slug": "reliquary-reincarnations",
@@ -3572,7 +3896,8 @@
   "family": "",
   "note": "Hunt-mobs-for-drops -> craft escalating artifacts is a genuine early progression; anchors S1 combat, keeps scaling into S2. Individual power-trinkets kept as one mod here.",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/reliquary-reincarnations"
  },
  {
   "slug": "responsiveshields",
@@ -3583,7 +3908,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/responsiveshields"
  },
  {
   "slug": "ribbits",
@@ -3594,7 +3920,8 @@
   "family": "",
   "note": "",
   "flag": "named as structure-only example in ruleset",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/ribbits"
  },
  {
   "slug": "roll-delight",
@@ -3605,7 +3932,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/roll-delight"
  },
  {
   "slug": "rolling-down-in-the-deep",
@@ -3616,7 +3944,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/rolling-down-in-the-deep"
  },
  {
   "slug": "rottencreatures",
@@ -3627,7 +3956,8 @@
   "family": "",
   "note": "",
   "flag": "Ruleset names 'rottencreatures' as fluff mob-variety.",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/rottencreatures"
  },
  {
   "slug": "rsinfinitybooster",
@@ -3638,7 +3968,8 @@
   "family": "Refined Storage",
   "note": "Cross-dimensional network reach; key for S4 void-dimension access to earlier bases",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/rsinfinitybooster"
  },
  {
   "slug": "runes",
@@ -3649,7 +3980,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": "high"
+  "conf": "high",
+  "url": "https://modrinth.com/mod/runes"
  },
  {
   "slug": "rustic-engineer",
@@ -3660,7 +3992,8 @@
   "family": "",
   "note": "",
   "flag": "Movement/transport flavor; adds items but ungated flight convenience",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/rustic-engineer"
  },
  {
   "slug": "screenshot-to-clipboard",
@@ -3671,7 +4004,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/screenshot-to-clipboard"
  },
  {
   "slug": "serene-seasons",
@@ -3682,7 +4016,8 @@
   "family": "",
   "note": "",
   "flag": "game-mechanic environment overhaul, ungated -> fluff; affects farming but not the progression spine",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/serene-seasons"
  },
  {
   "slug": "short-circuit",
@@ -3693,7 +4028,8 @@
   "family": "",
   "note": "",
   "flag": "Redstone building/logic tool, orthogonal to progression.",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/short-circuit"
  },
  {
   "slug": "simple-conveyor-belts",
@@ -3704,7 +4040,8 @@
   "family": "",
   "note": "Lightweight item-transport convenience; aesthetic/simple logistics, not a gated tech tier",
   "flag": "borderline logistics - but standalone and ungated, treated as fluff transport convenience",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/simple-conveyor-belts"
  },
  {
   "slug": "simple-recall-potion",
@@ -3715,7 +4052,8 @@
   "family": "",
   "note": "",
   "flag": "Little documentation; recall/teleport convenience item",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/simple-recall-potion"
  },
  {
   "slug": "simply-swords",
@@ -3726,7 +4064,8 @@
   "family": "Simply Swords",
   "note": "unique weapons come from chest loot in exploration; core adventure combat",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/simply-swords"
  },
  {
   "slug": "simplymore",
@@ -3737,7 +4076,8 @@
   "family": "Simply Swords",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/simplymore"
  },
  {
   "slug": "slag-n-embers",
@@ -3748,7 +4088,8 @@
   "family": "",
   "note": "Locked tentpole; cycles out early S2 as better processing comes online.",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/slag-n-embers"
  },
  {
   "slug": "slavic-delight",
@@ -3759,7 +4100,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/slavic-delight"
  },
  {
   "slug": "smooth-swapping",
@@ -3770,7 +4112,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/smooth-swapping"
  },
  {
   "slug": "sneak-through-berries",
@@ -3781,7 +4124,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/sneak-through-berries"
  },
  {
   "slug": "solar-flux-reborn",
@@ -3792,7 +4136,8 @@
   "family": "",
   "note": "Locked tentpole; all tiers + custom panels span late (void-factory power).",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/solar-flux-reborn"
  },
  {
   "slug": "sophisticated-backpacks",
@@ -3803,7 +4148,8 @@
   "family": "",
   "note": "Always-available portable storage/convenience, ungated",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/sophisticated-backpacks"
  },
  {
   "slug": "spark",
@@ -3814,7 +4160,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/spark"
  },
  {
   "slug": "sparsestructures",
@@ -3825,7 +4172,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/sparsestructures"
  },
  {
   "slug": "spectral-enchantment",
@@ -3836,7 +4184,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/spectral-enchantment"
  },
  {
   "slug": "spice-of-life-onion",
@@ -3847,7 +4196,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": "high"
+  "conf": "high",
+  "url": "https://modrinth.com/mod/spice-of-life-onion"
  },
  {
   "slug": "spyglass-improvements",
@@ -3858,7 +4208,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/spyglass-improvements"
  },
  {
   "slug": "status-effect-bars-reforged",
@@ -3869,7 +4220,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/status-effect-bars-reforged"
  },
  {
   "slug": "stellaris",
@@ -3880,7 +4232,8 @@
   "family": "",
   "note": "Ad Astra-style; gated by machines/rockets so anchors S2, resource runs reach S3",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/stellaris"
  },
  {
   "slug": "stellaris-stellarview-compatibility",
@@ -3891,7 +4244,8 @@
   "family": "",
   "note": "",
   "flag": "pure compat patch between two sky mods; verify Stellaris is actually in the pack",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/stellaris-stellarview-compatibility"
  },
  {
   "slug": "stellarview",
@@ -3902,7 +4256,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/stellarview"
  },
  {
   "slug": "stylish-effects",
@@ -3913,7 +4268,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/stylish-effects"
  },
  {
   "slug": "sunken-spires",
@@ -3924,7 +4280,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/datapack/sunken-spires"
  },
  {
   "slug": "swiftness-enchantment",
@@ -3935,7 +4292,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/datapack/swiftness-enchantment"
  },
  {
   "slug": "terra-curio",
@@ -3946,7 +4304,8 @@
   "family": "",
   "note": "Power-trinket mod, anchor S1 (early-use accessories); reach persists but combat/utility trinkets file early per ruleset",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/terra-curio"
  },
  {
   "slug": "terralith",
@@ -3957,7 +4316,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/datapack/terralith"
  },
  {
   "slug": "the-twilight-forest",
@@ -3968,7 +4328,8 @@
   "family": "Twilight Forest",
   "note": "LOCKED tentpole anchor: recurring come-and-get dimension across S1->S2",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest"
  },
  {
   "slug": "time-in-a-bottle-universal",
@@ -3979,7 +4340,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/time-in-a-bottle-universal"
  },
  {
   "slug": "tiny-item-animations",
@@ -3990,7 +4352,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/tiny-item-animations"
  },
  {
   "slug": "tiny-mob-farm-remastered",
@@ -4001,7 +4364,8 @@
   "family": "",
   "note": "",
   "flag": "Automation-flavored but ungated, always-available convenience farming - filed fluff.",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/tiny-mob-farm-remastered"
  },
  {
   "slug": "tiny-skeletons",
@@ -4012,7 +4376,8 @@
   "family": "",
   "note": "",
   "flag": "Explicitly named as fluff in ruleset.",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/tiny-skeletons"
  },
  {
   "slug": "tips",
@@ -4023,7 +4388,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/tips"
  },
  {
   "slug": "tmrv",
@@ -4034,7 +4400,8 @@
   "family": "",
   "note": "",
   "flag": "author memory notes TMRV bridge was rejected for EMI project; verify still in pack",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/tmrv"
  },
  {
   "slug": "too-fast",
@@ -4045,7 +4412,8 @@
   "family": "",
   "note": "",
   "flag": "verify exact behavior; skips 'downloading terrain'/loading delay",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/too-fast"
  },
  {
   "slug": "too-many-bricks",
@@ -4056,7 +4424,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": "high"
+  "conf": "high",
+  "url": "https://modrinth.com/mod/too-many-bricks"
  },
  {
   "slug": "tooltip-overhaul",
@@ -4067,7 +4436,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/tooltip-overhaul"
  },
  {
   "slug": "trailtales-delight",
@@ -4078,7 +4448,8 @@
   "family": "",
   "note": "",
   "flag": "niche mod - confident it is a Farmer's Delight food addon",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/trailtales-delight"
  },
  {
   "slug": "trash-cans",
@@ -4089,7 +4460,8 @@
   "family": "",
   "note": "Ubiquitous automation-cleanup convenience, available any stage",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/trash-cans"
  },
  {
   "slug": "trashslot",
@@ -4100,7 +4472,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/trashslot"
  },
  {
   "slug": "travelers-titles",
@@ -4111,7 +4484,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/travelers-titles"
  },
  {
   "slug": "tree-giant",
@@ -4122,7 +4496,8 @@
   "family": "",
   "note": "",
   "flag": "one of several giant-tree decoration mods; verify not duplicate",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/tree-giant"
  },
  {
   "slug": "tree-vein-miner",
@@ -4133,7 +4508,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/datapack/tree-vein-miner"
  },
  {
   "slug": "trek",
@@ -4144,7 +4520,8 @@
   "family": "",
   "note": "",
   "flag": "named in ruleset as a structure-only example",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/datapack/trek"
  },
  {
   "slug": "true-ending",
@@ -4155,7 +4532,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/datapack/true-ending"
  },
  {
   "slug": "tslatentitystatus",
@@ -4166,7 +4544,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/tslatentitystatus"
  },
  {
   "slug": "tweakerge",
@@ -4177,7 +4556,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/tweakerge"
  },
  {
   "slug": "twilight-delight",
@@ -4188,7 +4568,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/twilight-delight"
  },
  {
   "slug": "twilight-forest-final-boss-remake",
@@ -4199,7 +4580,8 @@
   "family": "Twilight Forest",
   "note": "Extends TF endgame; BOSS RULE caps at S2; depends on the-twilight-forest",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://www.curseforge.com/minecraft/mc-mods/twilight-forest-final-boss-remake"
  },
  {
   "slug": "twilight-treehouses",
@@ -4210,7 +4592,8 @@
   "family": "",
   "note": "Structure-only (loot borrowed) + minor mob variety; judged as structures => fluff",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/twilight-treehouses"
  },
  {
   "slug": "typewriter-daycounter",
@@ -4221,7 +4604,8 @@
   "family": "",
   "note": "",
   "flag": "listed as a datapack on Modrinth, not a jar mod; verify load method",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/datapack/typewriter-daycounter"
  },
  {
   "slug": "universal-grid",
@@ -4232,7 +4616,8 @@
   "family": "Refined Storage",
   "note": "RS grid QoL that participates directly in the storage progression; borderline-fluff but gated by having an RS network",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/universal-grid"
  },
  {
   "slug": "universal-sawmill",
@@ -4243,7 +4628,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/universal-sawmill"
  },
  {
   "slug": "upgraded-mobs",
@@ -4254,7 +4640,8 @@
   "family": "",
   "note": "",
   "flag": "Author locked upgraded-mobs as FLUFF in ruleset.",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/datapack/upgraded-mobs"
  },
  {
   "slug": "urkaz-moon-tools",
@@ -4265,7 +4652,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/urkaz-moon-tools"
  },
  {
   "slug": "useful-railroads",
@@ -4276,7 +4664,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/useful-railroads"
  },
  {
   "slug": "usefulmagic",
@@ -4287,7 +4676,8 @@
   "family": "",
   "note": "Combat-magic wand items; COMBAT-BEFORE-AUTOMATION -> anchors S1.",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/usefulmagic"
  },
  {
   "slug": "vanillabackport",
@@ -4298,7 +4688,8 @@
   "family": "",
   "note": "",
   "flag": "content is vanilla flavor, ungated",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/vanillabackport"
  },
  {
   "slug": "villages-and-pillages",
@@ -4309,7 +4700,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/villages-and-pillages"
  },
  {
   "slug": "vision-enchantment",
@@ -4320,7 +4712,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/datapack/vision-enchantment"
  },
  {
   "slug": "visual-workbench",
@@ -4331,7 +4724,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/visual-workbench"
  },
  {
   "slug": "warden-tools",
@@ -4342,7 +4736,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": "high"
+  "conf": "high",
+  "url": "https://modrinth.com/mod/warden-tools"
  },
  {
   "slug": "waystones",
@@ -4353,7 +4748,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/waystones"
  },
  {
   "slug": "wfs-cave-overhaul",
@@ -4364,7 +4760,8 @@
   "family": "",
   "note": "",
   "flag": "memory notes this as a worldgen perf concern",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/wfs-cave-overhaul"
  },
  {
   "slug": "what-are-they-up-to",
@@ -4375,7 +4772,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/what-are-they-up-to"
  },
  {
   "slug": "whats-that-slot",
@@ -4386,7 +4784,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/whats-that-slot"
  },
  {
   "slug": "when-dungeons-arise",
@@ -4397,7 +4796,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/when-dungeons-arise"
  },
  {
   "slug": "when-dungeons-arise-seven-seas",
@@ -4408,7 +4808,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/when-dungeons-arise-seven-seas"
  },
  {
   "slug": "wings-of-fire",
@@ -4419,7 +4820,8 @@
   "family": "",
   "note": "",
   "flag": "Primarily a dragon-transformation/flight + decorative-block mod, ungated flavor → fluff. Verify it's the transformation mod and not a combat/creature mod; confirm it's actually in the pack (thematically odd alongside iceandfire-ce).",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/wings-of-fire!"
  },
  {
   "slug": "wingscontracts",
@@ -4430,7 +4832,8 @@
   "family": "",
   "note": "",
   "flag": "contract/economy mod - becomes cross-stage automation quest tasks, ungated ('like eating')",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/wingscontracts"
  },
  {
   "slug": "wither-spawn-animation",
@@ -4441,7 +4844,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/wither-spawn-animation"
  },
  {
   "slug": "withered-hearts",
@@ -4452,7 +4856,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://github.com/bertie-mc/withered-hearts"
  },
  {
   "slug": "withering-heights",
@@ -4463,7 +4868,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/datapack/withering-heights"
  },
  {
   "slug": "wits",
@@ -4474,7 +4880,8 @@
   "family": "",
   "note": "",
   "flag": "Dev/info utility command; borderline control_dev",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/wits"
  },
  {
   "slug": "worldedit",
@@ -4485,7 +4892,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": "high"
+  "conf": "high",
+  "url": "https://modrinth.com/mod/worldedit"
  },
  {
   "slug": "xaero-train-map",
@@ -4496,7 +4904,8 @@
   "family": "",
   "note": "",
   "flag": "Create map-integration addon; still purely navigation display",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/xaero-train-map"
  },
  {
   "slug": "xaeros-minimap",
@@ -4507,7 +4916,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/xaeros-minimap"
  },
  {
   "slug": "xaeros-world-map",
@@ -4518,7 +4928,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/xaeros-world-map"
  },
  {
   "slug": "yggdrasil-structure",
@@ -4529,7 +4940,8 @@
   "family": "",
   "note": "",
   "flag": "big loot structures but adds no progression system of its own -> structure fluff; verify no unique gating items",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/datapack/yggdrasil-structure"
  },
  {
   "slug": "yukamis-sophisticated-backpack-tab",
@@ -4540,7 +4952,8 @@
   "family": "",
   "note": "",
   "flag": "Pure UI convenience addon for Sophisticated Backpacks",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/yukamis-sophisticated-backpack-tab"
  },
  {
   "slug": "yungs-better-desert-temples",
@@ -4551,7 +4964,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/yungs-better-desert-temples"
  },
  {
   "slug": "yungs-better-dungeons",
@@ -4562,7 +4976,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/yungs-better-dungeons"
  },
  {
   "slug": "yungs-better-end-island",
@@ -4573,7 +4988,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/yungs-better-end-island"
  },
  {
   "slug": "yungs-better-jungle-temples",
@@ -4584,7 +5000,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/yungs-better-jungle-temples"
  },
  {
   "slug": "yungs-better-mineshafts",
@@ -4595,7 +5012,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/yungs-better-mineshafts"
  },
  {
   "slug": "yungs-better-nether-fortresses",
@@ -4606,7 +5024,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/yungs-better-nether-fortresses"
  },
  {
   "slug": "yungs-better-ocean-monuments",
@@ -4617,7 +5036,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/yungs-better-ocean-monuments"
  },
  {
   "slug": "yungs-better-strongholds",
@@ -4628,7 +5048,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/yungs-better-strongholds"
  },
  {
   "slug": "yungs-better-witch-huts",
@@ -4639,7 +5060,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/yungs-better-witch-huts"
  },
  {
   "slug": "yungs-bridges",
@@ -4650,7 +5072,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/yungs-bridges"
  },
  {
   "slug": "yungs-extras",
@@ -4661,7 +5084,8 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/yungs-extras"
  },
  {
   "slug": "ziplines-rezipped",
@@ -4672,7 +5096,8 @@
   "family": "",
   "note": "",
   "flag": "Movement/transport convenience. Thematically fits the S2+ factory back-half but is ungated always-available traversal, so fluff not content.",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/ziplines-rezipped"
  },
  {
   "slug": "zombie-awareness",
@@ -4683,6 +5108,7 @@
   "family": "",
   "note": "",
   "flag": "",
-  "conf": ""
+  "conf": "",
+  "url": "https://modrinth.com/mod/zombie-awareness"
  }
 ]

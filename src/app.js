@@ -69,6 +69,18 @@ const escapeHtml = (value) =>
 
 const toggleInSet = (set, value) => (set.has(value) ? set.delete(value) : set.add(value));
 
+const sourceLabel = (url) =>
+  url.includes('curseforge.com') ? 'on CurseForge'
+  : url.includes('github.com') ? 'on GitHub'
+  : 'on Modrinth';
+
+function slugHtml(mod) {
+  if (!mod.url) return `<span class="slug">${escapeHtml(mod.slug)}</span>`;
+  return `<a class="slug" href="${escapeHtml(mod.url)}" target="_blank" rel="noopener"`
+    + ` title="Open ${escapeHtml(mod.slug)} ${sourceLabel(mod.url)}">`
+    + `<span class="name">${escapeHtml(mod.slug)}</span><span class="ext" aria-hidden="true">↗</span></a>`;
+}
+
 // --- Data loading -----------------------------------------------------------
 // The single-file build inlines the dataset as <script id="mod-data">; when the
 // modular source is served directly, we fetch data.json instead.
@@ -112,7 +124,7 @@ function rowHtml(mod) {
   const rowClass = isContent ? mod.stage.toLowerCase()
     : mod.bucket === 'deconstruct' ? 'deconstruct' : 'fluff';
 
-  const tags = [`<span class="slug">${escapeHtml(mod.slug)}</span>`];
+  const tags = [slugHtml(mod)];
   if (mod.stage) tags.push(`<span class="span ${mod.stage.toLowerCase()}">${mod.stage}</span>`);
   if (mod.axis) tags.push(`<span class="tag-axis">${escapeHtml(mod.axis)}</span>`);
   if (mod.family) tags.push(`<span class="tag-family">${escapeHtml(mod.family)}</span>`);
