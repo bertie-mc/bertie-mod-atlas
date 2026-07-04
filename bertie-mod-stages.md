@@ -2,7 +2,7 @@
 
 _The full modlist sorted into **four buckets**: **Content** = mods on the progression path (staged S1-S3, ecosystems folded into **families**); **Fluff** = mods that add tangible new objects (items, blocks, mobs, structures, food) but sit outside progression; **Configurations** = mods that add *nothing* tangible — they only change behaviour or visuals (QoL, UI, tweaks, fixes, compat, deps, enchantment abilities); **Deconstruct** = asset donors harvested for parts, not shipped in the pack. Working draft — recipes will intertwine, so placements iterate._
 
-**Totals:** 77 content · 162 fluff · 167 configurations · 21 deconstruct.
+**Totals:** 77 content · 155 fluff · 173 configurations · 21 deconstruct.
 
 ## The 3-stage spine
 
@@ -184,7 +184,7 @@ _The merged endgame: full factory automation, Modular Machinery resources-from-n
 
 ---
 
-# Appendix A — FLUFF (162)
+# Appendix A — FLUFF (155)
 
 _Adds tangible new objects (items, blocks, mobs, structures, food) but sits outside progression. Grouped by type; you'll tune/trim these but they don't get a stage._
 
@@ -237,19 +237,13 @@ _Adds tangible new objects (items, blocks, mobs, structures, food) but sits outs
 
 - **etched** — Custom music discs from URLs/audio, etching table, album jukebox and jukebox minecart
 
-### Control, dev & pack-internals  (1)
-
-- **irons-spells-n-spellbooks-restrictions** — Rebalance/gating layer: rarity-level requirement to cast spells, rarity orbs to upgrade, per-school manuscripts to learn spells; adds compat for modded schools
-
-### Building & decoration  (22)
+### Building & decoration  (19)
 
 - **betterend-neoforge** — End biome overhaul: blocks, plants, materials, some passive mobs
   - ⚠ adds real blocks/items/mobs but as ungated End flavor -> fluff; verify not used as a progression gate
 - **big-birch-tree** — giant decorative birch worldgen tree
 - **big-oak-tree** — giant decorative oak worldgen tree
 - **chipped** — Thousands of decorative block variants of vanilla blocks via chipping-table workbenches
-- **diagonal-fences** — Diagonal orientations of fences and fence gates for building
-- **diagonal-walls** — Diagonal orientations of vanilla/modded wall blocks for building
 - **exposure** — Working camera that captures in-game photos, printable photographs and albums
 - **exposure-expanded** — Additional cameras, items and content expanding the Exposure photography mod
   - ⚠ addon to Exposure; purely cosmetic photography content
@@ -266,7 +260,6 @@ _Adds tangible new objects (items, blocks, mobs, structures, food) but sits outs
 - **macaws-trapdoors** — Large variety of decorative trapdoor styles
 - **more-concrete** — Additional decorative concrete block shapes/variants (slabs, stairs, tiles etc.)
 - **mystical-oak-tree** — Interactive talking NPC oak-tree block with 300+ lines of lore/jokes/facts
-- **reconnectible-chains** — Chains that connect/hang between points for decorative rope-bridge-like builds
 - **tree-giant** — giant decorative worldgen tree
   - ⚠ one of several giant-tree decoration mods; verify not duplicate
 
@@ -334,9 +327,8 @@ _Adds tangible new objects (items, blocks, mobs, structures, food) but sits outs
 - **terralith** — ~100 overworld biomes + terrain via datapack noise settings
 - **waystones** — Placeable teleport waystones and warp scrolls for fast travel
 
-### Movement & transport  (9)
+### Movement & transport  (8)
 
-- **ashen-witch-broom** — Rideable configurable flying witch broom (anime Elaina cosmetics)
 - **elevatormod** — Stackable elevator blocks that teleport you vertically between them
 - **hang-glider** — Craftable hang glider for gliding/slow-fall traversal
 - **hooked** — Grappling-hook item for swinging/traversal
@@ -351,7 +343,7 @@ _Adds tangible new objects (items, blocks, mobs, structures, food) but sits outs
 - **ziplines-rezipped** — Satisfactory-style ziplines: attach a zipline tool to cables/chains and ride with momentum physics
   - ⚠ Movement/transport convenience. Thematically fits the S2+ factory back-half but is ungated always-available traversal, so fluff not content.
 
-### Mob variety & difficulty  (12)
+### Mob variety & difficulty  (11)
 
 - **alexs-mobs** — Adds ~90 ambient/neutral/hostile creatures across biomes with unique drops, a few mini-bosses, and some craftable gear/items.
   - ⚠ Predominantly ungated mob-variety/flavor (ruleset → fluff), though it adds real gear + a couple mini-bosses. If author wants any of those items gated, revisit; otherwise fluff.
@@ -374,17 +366,14 @@ _Adds tangible new objects (items, blocks, mobs, structures, food) but sits outs
   - ⚠ Ruleset names 'rottencreatures' as fluff mob-variety.
 - **tiny-skeletons** — Adds small baby-skeleton mob variants.
   - ⚠ Explicitly named as fluff in ruleset.
-- **upgraded-mobs** — Adds tougher armored/equipped variants of vanilla mobs plus mob-gear variety.
-  - ⚠ Author locked upgraded-mobs as FLUFF in ruleset.
 
-### Enchantments & enchanting  (5)
+### Enchantments & enchanting  (4)
 
 - **dis-enchanting-table** — Station to extract/remove enchantments from items into books
 - **enchanting-infuser** — Alternative enchanting-table block letting you pick exact enchantments by paying XP
 - **immersive-enchanting** — Reworks enchanting into a skill-tree GUI: material costs instead of XP, chiseled bookshelves, world-found Ancient Books unlock branches
   - ⚠ Directly conflicts with mc-dungeons-enchanting (both overhaul the enchanting table) - cannot run both meaningfully; choose one.
 - **iron-bookshelves** — Higher-tier bookshelves (iron/gold/diamond/etc.) that give more enchanting power per block than vanilla
-- **quality-equipment** — random quality/stat modifiers on crafted tools & armor, re-rollable at a reforging station
 
 ### Economy & trading  (3)
 
@@ -412,7 +401,7 @@ _Collapsed — one big ungated flavor ecosystem (Farmer's Delight family + fishi
 
 ---
 
-# Appendix B — CONFIGURATIONS (167)
+# Appendix B — CONFIGURATIONS (173)
 
 _Adds no tangible object — only changes behaviour or visuals: QoL tweaks, UI/HUD/info, visuals/animation/audio, performance & fixes, control/dev/recipe tools, compat bridges, dependencies, and enchantment abilities. Grouped by kind._
 
@@ -539,7 +528,7 @@ _Adds no tangible object — only changes behaviour or visuals: QoL tweaks, UI/H
 - **stellaris-stellarview-compatibility** — Compat patch making StellarView sky work alongside the Stellaris sky mod
 - **too-fast** — Removes artificial delays (loading terrain screen) for faster world entry
 
-### Control, dev & pack-internals  (17)
+### Control, dev & pack-internals  (18)
 
 - **accessdenied** — Gate/disable dimension access behind pack-author requirements
 - **biome-replacer** — Config-based swapping of one biome for another at worldgen (no new content)
@@ -552,6 +541,7 @@ _Adds no tangible object — only changes behaviour or visuals: QoL tweaks, UI/H
 - **fancymenu** — Customize game menus / title screen; dependency of Drippy Loading Screen.
 - **i-dont-want-to-cheat** — Blocks configured cheaty items/interactions/exploits in the pack
 - **in-control** — Rule-based mob-spawn control (allow/deny/force per dimension/biome).
+- **irons-spells-n-spellbooks-restrictions** — Rebalance/gating layer: rarity-level requirement to cast spells, rarity orbs to upgrade, per-school manuscripts to learn spells; adds compat for modded schools
 - **mekanism-fission-recipe** — Datapack hook to add custom Mekanism fission reactor & coolant recipes
 - **neoforge-carpet** — Carpet-style server tweaks/rules and technical toggles for NeoForge
 - **neoreplaymod** — Record, replay, and render camera-path videos of gameplay
@@ -559,11 +549,14 @@ _Adds no tangible object — only changes behaviour or visuals: QoL tweaks, UI/H
 - **tweakerge** — Forge/NeoForge port of Tweakeroo: client-side block-placement and misc gameplay tweaks
 - **worldedit** — In-game world-editing / building command tool (dev/admin).
 
-### Building & decoration  (3)
+### Building & decoration  (6)
 
 - **amendments** — Decorative/QoL block behaviors (hanging signs on any block, ceiling/wall placements, mob-in-a-bucket displays)
 - **armor-statues** — Tool to pose/adjust armor stands (arms, rotation, no base) for display builds
+- **diagonal-fences** — Diagonal orientations of fences and fence gates for building
+- **diagonal-walls** — Diagonal orientations of vanilla/modded wall blocks for building
 - **plonk** — Place items freely as decorative objects on surfaces
+- **reconnectible-chains** — Chains that connect/hang between points for decorative rope-bridge-like builds
 
 ### Exploration & navigation  (7)
 
@@ -583,14 +576,15 @@ _Adds no tangible object — only changes behaviour or visuals: QoL tweaks, UI/H
 - **parcool** — Parkour movement system: wall-run, vault, climb, roll, dodge
 - **rolling-down-in-the-deep** — Do-a-Barrel-Roll addon giving full 3D roll control while swimming
 
-### Mob variety & difficulty  (4)
+### Mob variety & difficulty  (5)
 
 - **edf-remastered** — Gives the Ender Dragon 500 HP, a second phase, and devastating new attacks with boss music
 - **true-ending** — Overhauls the Ender Dragon with more HP, new attacks/phases, scaling difficulty and boss music
+- **upgraded-mobs** — Adds tougher armored/equipped variants of vanilla mobs plus mob-gear variety.
 - **withering-heights** — Datapack overhauling the vanilla Wither: 600 HP, armor, 5 new attacks, boss music, no more flying out of reach.
 - **zombie-awareness** — Smarter zombie/undead AI - mobs sense/track players by sound, smell (blood), and light, and horde toward them.
 
-### Enchantments & enchanting  (9)
+### Enchantments & enchanting  (10)
 
 - **air-jump-enchantment** — New enchantment granting mid-air/double jumps
 - **anti-knockback-enchantment** — New armor enchantment reducing/negating knockback taken
@@ -598,6 +592,7 @@ _Adds no tangible object — only changes behaviour or visuals: QoL tweaks, UI/H
 - **easy-magic** — QoL enchanting-table tweaks: see/reroll enchantments, scroll-through options
 - **ender-eyes** — New helmet enchantment letting you look at endermen without angering them
 - **lavawalker** — New boots enchantment turning nearby lava into obsidian/magma to walk on
+- **quality-equipment** — random quality/stat modifiers on crafted tools & armor, re-rollable at a reforging station
 - **spectral-enchantment** — New bow enchantment making arrows apply glowing like spectral arrows
 - **swiftness-enchantment** — New armor enchantment granting movement-speed boost
 - **vision-enchantment** — New enchantment granting night-vision while worn/held
