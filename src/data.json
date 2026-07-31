@@ -162,7 +162,7 @@
   "stage": "S2",
   "axis": "tech",
   "family": "",
-  "note": "Locked tentpole (author tentative - RESEARCHED): genuine automation processing mod, anvil-impact crafting scaling into factory lines. Confirmed content.",
+  "note": "Provisional progression candidate (researched): genuine automation processing mod, anvil-impact crafting scaling into factory lines.",
   "flag": "",
   "conf": "",
   "url": "https://modrinth.com/mod/anvilcraft"
@@ -246,7 +246,7 @@
   "stage": "S1",
   "axis": "trinket",
   "family": "",
-  "note": "Individual power-trinket mod (ruleset names artifacts explicitly). Anchor S1 - dungeon-loot trinkets used from early adventure",
+  "note": "Individual power-trinket mod; provisional early-game candidate because its dungeon-loot trinkets are usable from early adventure.",
   "flag": "",
   "conf": "",
   "url": "https://modrinth.com/mod/artifacts"
@@ -918,7 +918,7 @@
   "stage": "S1",
   "axis": "tech",
   "family": "",
-  "note": "Locked tentpole: contraptions used early, scales into machines stage.",
+  "note": "Provisional placement: contraptions used early and may scale into a machines stage.",
   "flag": "",
   "conf": "",
   "url": "https://modrinth.com/mod/create"
@@ -990,7 +990,7 @@
   "stage": "S1",
   "axis": "trinket",
   "family": "",
-  "note": "Individual power-trinket mod (ruleset names curse-of-pandora explicitly as staged content); anchor S1",
+  "note": "Individual power-trinket mod; provisional early-game candidate.",
   "flag": "",
   "conf": "",
   "url": "https://modrinth.com/mod/curse-of-pandora"
@@ -1158,7 +1158,7 @@
   "stage": "S1",
   "axis": "magic",
   "family": "Iron's Spells",
-  "note": "Real spells/mobs/boss/gear (judged on items per STRUCTURE RULE); combat magic anchors S1 with parent",
+  "note": "Real spells, mobs, bosses and gear; provisional early-game combat-magic candidate with its parent.",
   "flag": "",
   "conf": "",
   "url": "https://modrinth.com/mod/discerning-the-eldritch"
@@ -1578,7 +1578,7 @@
   "stage": "S2",
   "axis": "tech",
   "family": "EnderIO",
-  "note": "Locked tentpole; machine+logistics backbone into late game.",
+  "note": "Provisional placement; machine and logistics backbone that may extend into late game.",
   "flag": "",
   "conf": "",
   "url": "https://modrinth.com/mod/enderio"
@@ -1674,7 +1674,7 @@
   "stage": "S1",
   "axis": "combat",
   "family": "",
-  "note": "Power-trinket progression (each relic a distinct upgrade); anchors S1 combat, relics keep scaling into S2.",
+  "note": "Power-trinket progression (each relic a distinct upgrade); provisional early-game combat candidate whose relics may keep scaling later.",
   "flag": "",
   "conf": "",
   "url": "https://modrinth.com/mod/enigmaticlegacy"
@@ -1998,7 +1998,7 @@
   "stage": "S1",
   "axis": "trinket",
   "family": "",
-  "note": "Ruleset names flight-ring explicitly as an individual staged power-trinket; anchor S1 (movement power-trinket)",
+  "note": "Individual movement power-trinket; provisional early-game candidate.",
   "flag": "",
   "conf": "",
   "url": "https://modrinth.com/mod/flight-ring"
@@ -2010,7 +2010,7 @@
   "stage": "S1",
   "axis": "magic",
   "family": "",
-  "note": "LOCKED tentpole anchor (5 altar tiers) - placed verbatim, not re-evaluated.",
+  "note": "Provisional progression candidate with five altar tiers; revisit during integration.",
   "flag": "",
   "conf": "",
   "url": "https://modrinth.com/mod/forbidden-arcanus"
@@ -2178,7 +2178,7 @@
   "stage": "S1",
   "axis": "magic",
   "family": "Iron's Spells",
-  "note": "Extends Iron's Spells gear/spell progression; anchors S1 with parent (combat-before-automation)",
+  "note": "Extends Iron's Spells gear and spell progression; provisional early-game candidate with its parent.",
   "flag": "",
   "conf": "",
   "url": "https://modrinth.com/mod/hazen-n-stuff"
@@ -2262,7 +2262,7 @@
   "stage": "S3",
   "axis": "tech",
   "family": "",
-  "note": "Locked tentpole verbatim: S3",
+  "note": "Provisional later-game placement; revisit during integration.",
   "flag": "",
   "conf": "",
   "url": "https://www.curseforge.com/minecraft/mc-mods/hostile-neural-networks"
@@ -2286,7 +2286,7 @@
   "stage": "S1",
   "axis": "magic",
   "family": "Iron's Spells",
-  "note": "Adds combat magic gear (armor/staff/spellbook); anchors S1, though gated by Ice-and-Fire dragon progression",
+  "note": "Adds combat-magic gear (armor, staff and spellbook); provisional early-game candidate, though gated by Ice and Fire dragon progression.",
   "flag": "",
   "conf": "",
   "url": "https://modrinth.com/mod/ice-and-fire-spellbooks"
@@ -2502,7 +2502,7 @@
   "stage": "S1",
   "axis": "magic",
   "family": "Iron's Spells",
-  "note": "LOCKED tentpole anchor per author - combat magic, do not re-place",
+  "note": "Provisional combat-magic candidate; revisit during integration.",
   "flag": "",
   "conf": "",
   "url": "https://modrinth.com/mod/irons-spells-n-spellbooks"
@@ -2874,7 +2874,7 @@
   "stage": "S1",
   "axis": "magic",
   "family": "Malum",
-  "note": "LOCKED tentpole anchor - placed verbatim.",
+  "note": "Provisional progression candidate; revisit during integration.",
   "flag": "",
   "conf": "",
   "url": "https://modrinth.com/mod/malum"
@@ -2898,7 +2898,7 @@
   "stage": "S2",
   "axis": "tech",
   "family": "Mekanism",
-  "note": "Locked tentpole: mekanism S2->S4 (many tiers via addons). Ore-doubling/factories mid, QIO storage + Meka-Suit + digital miner scale into late.",
+  "note": "Provisional multi-stage placement. Ore doubling and factories suggest mid game; QIO storage, Meka-Suit and the digital miner may scale later.",
   "flag": "",
   "conf": "",
   "url": "https://modrinth.com/mod/mekanism"
@@ -2982,7 +2982,7 @@
   "stage": "S2",
   "axis": "combat",
   "family": "Mekanism",
-  "note": "Alloy/refined tool+armor sets + paxel; usable as soon as you have base Mekanism metals. Combat gear -> anchors S1 per combat-before-automation. Superseded by Meka-Suit late.",
+  "note": "Alloy/refined tool and armor sets plus paxel; provisional early-game candidate once base Mekanism metals are available. Superseded by Meka-Suit later.",
   "flag": "",
   "conf": "",
   "url": "https://modrinth.com/mod/mekanism-tools"
@@ -3138,7 +3138,7 @@
   "stage": "S3",
   "axis": "tech",
   "family": "Modular Machinery",
-  "note": "Locked tentpole verbatim: S3->S4 thin-air engine",
+  "note": "Provisional later-game candidate for a thin-air engine; revisit during integration.",
   "flag": "",
   "conf": "",
   "url": "https://modrinth.com/mod/modular-machinery-reborn"
@@ -3270,7 +3270,7 @@
   "stage": "S1",
   "axis": "trinket",
   "family": "",
-  "note": "Individual power-trinket mod (ruleset: list separately as staged content). Anchors S1 - powerful abilities used from early exploration; abilities stay relevant later",
+  "note": "Individual power-trinket mod; provisional early-game candidate because its abilities are useful from early exploration and may remain relevant later.",
   "flag": "",
   "conf": "",
   "url": "https://modrinth.com/mod/nameless-trinkets"
@@ -3498,7 +3498,7 @@
   "stage": "S2",
   "axis": "tech",
   "family": "Oritech",
-  "note": "Locked tentpole (->S3 potential); deep automation+processing ladder.",
+  "note": "Provisional later-game candidate with a deep automation and processing ladder.",
   "flag": "",
   "conf": "",
   "url": "https://modrinth.com/mod/oritech"
@@ -3618,7 +3618,7 @@
   "stage": "S1",
   "axis": "magic",
   "family": "",
-  "note": "Self-contained multi-stage journey (early color magic -> machinery/contraptions -> hidden dimension); anchors S1, machinery/dimension push into S2->S3.",
+  "note": "Self-contained multi-stage journey from color magic through machinery and contraptions to a hidden dimension; provisional placement across several stages.",
   "flag": "",
   "conf": "",
   "url": "https://modrinth.com/mod/pastel-mod"
@@ -3726,7 +3726,7 @@
   "stage": "S2",
   "axis": "tech",
   "family": "",
-  "note": "Locked tentpole; all tiers span into late-game power.",
+  "note": "Provisional placement; its tiers may span into late-game power.",
   "flag": "",
   "conf": "",
   "url": "https://modrinth.com/mod/powah"
@@ -3810,7 +3810,7 @@
   "stage": "S3",
   "axis": "material",
   "family": "Avaritia / Extended Crafting",
-  "note": "Locked tentpole: S4, may span DOWN to S2 or even S1 - span TBD per author",
+  "note": "Provisional broad-stage candidate; exact span remains to be determined during integration.",
   "flag": "",
   "conf": "",
   "url": "https://modrinth.com/mod/re-avaritia"
@@ -3834,7 +3834,7 @@
   "stage": "S2",
   "axis": "storage",
   "family": "Refined Storage",
-  "note": "LOCKED tentpole anchor S2->S4 per author",
+  "note": "Provisional mid-to-late-game candidate; revisit during integration.",
   "flag": "",
   "conf": "",
   "url": "https://modrinth.com/mod/refined-storage"
@@ -3870,7 +3870,7 @@
   "stage": "S2",
   "axis": "storage",
   "family": "Refined Storage",
-  "note": "Couples two locked tentpoles (RS + Mekanism); relevant once Mekanism chemistry is online",
+  "note": "Couples two provisional technology candidates (RS and Mekanism); relevant once Mekanism chemistry is online.",
   "flag": "",
   "conf": "",
   "url": "https://modrinth.com/mod/refined-storage-mekanism-integration"
@@ -3894,7 +3894,7 @@
   "stage": "S1",
   "axis": "combat",
   "family": "",
-  "note": "Hunt-mobs-for-drops -> craft escalating artifacts is a genuine early progression; anchors S1 combat, keeps scaling into S2. Individual power-trinkets kept as one mod here.",
+  "note": "Hunt mobs for drops, then craft escalating artifacts; provisional early-game combat candidate that may keep scaling later. Individual power trinkets remain grouped here.",
   "flag": "",
   "conf": "",
   "url": "https://modrinth.com/mod/reliquary-reincarnations"
@@ -4015,7 +4015,7 @@
   "axis": "visual",
   "family": "",
   "note": "",
-  "flag": "game-mechanic environment overhaul, ungated -> fluff; affects farming but not the progression spine",
+  "flag": "Game-mechanic environment overhaul, ungated; affects farming but is not currently planned as a progression gate.",
   "conf": "",
   "url": "https://modrinth.com/mod/serene-seasons"
  },
@@ -4086,7 +4086,7 @@
   "stage": "S1",
   "axis": "tech",
   "family": "",
-  "note": "Locked tentpole; cycles out early S2 as better processing comes online.",
+  "note": "Provisional early-processing candidate that may cycle out as better processing comes online.",
   "flag": "",
   "conf": "",
   "url": "https://modrinth.com/mod/slag-n-embers"
@@ -4134,7 +4134,7 @@
   "stage": "S2",
   "axis": "tech",
   "family": "",
-  "note": "Locked tentpole; all tiers + custom panels span late (void-factory power).",
+  "note": "Provisional later-game power candidate; exact placement of its tiers and custom panels remains open.",
   "flag": "",
   "conf": "",
   "url": "https://modrinth.com/mod/solar-flux-reborn"
@@ -4302,7 +4302,7 @@
   "stage": "S1",
   "axis": "trinket",
   "family": "",
-  "note": "Power-trinket mod, anchor S1 (early-use accessories); reach persists but combat/utility trinkets file early per ruleset",
+  "note": "Power-trinket mod; provisional early-game candidate because its accessories are useful early, although their reach may persist.",
   "flag": "",
   "conf": "",
   "url": "https://modrinth.com/mod/terra-curio"
@@ -4326,7 +4326,7 @@
   "stage": "S1",
   "axis": "dimension",
   "family": "Twilight Forest",
-  "note": "LOCKED tentpole anchor: recurring come-and-get dimension across S1->S2",
+  "note": "Provisional recurring exploration-dimension candidate across early-to-mid game.",
   "flag": "",
   "conf": "",
   "url": "https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest"
@@ -4674,7 +4674,7 @@
   "stage": "S1",
   "axis": "combat",
   "family": "",
-  "note": "Combat-magic wand items; COMBAT-BEFORE-AUTOMATION -> anchors S1.",
+  "note": "Combat-magic wand items; provisional early-game candidate.",
   "flag": "",
   "conf": "",
   "url": "https://modrinth.com/mod/usefulmagic"

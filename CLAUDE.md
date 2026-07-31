@@ -2,8 +2,8 @@
 
 **Read [AGENTS.md](AGENTS.md) before doing any work here.**
 
-This is the interactive progression atlas for the bertie modpack — static HTML/CSS/JS plus
-a Python build script. No Minecraft toolchain.
+This is the interactive progression-planning atlas for the bertie modpack — static
+HTML/CSS/JS plus a Python build script. No Minecraft toolchain.
 
 ## Non-negotiables
 

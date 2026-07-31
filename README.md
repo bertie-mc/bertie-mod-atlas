@@ -1,12 +1,17 @@
 # modgraph
 
-Interactive mod map for the **bertie** modpack (NeoForge 1.21.1).
+Interactive progression-planning map for the **bertie** modpack (NeoForge 1.21.1).
 
-Every mod is sorted into one of four buckets — **content** (on the progression
-spine, staged S1–S3 with addon families folded), **fluff** (adds tangible
-objects but off the spine), **configurations** (changes behaviour/visuals only),
-and **deconstruct** (asset donors, not shipped) — then filtered, searched and
-sliced in the browser.
+Every mod is provisionally sorted into one of four planning buckets — **content**
+(a candidate for integrated progression, with tentative stage and family
+placements), **fluff** (adds tangible objects but is not currently planned for
+progression), **configurations** (changes behaviour/visuals only), and
+**deconstruct** (asset donors, not shipped) — then filtered, searched and sliced
+in the browser.
+
+The pack and this atlas are works in progress. Current implementation work focuses
+on early-to-mid-game progression; stage labels describe planning, not a completed
+or settled progression path.
 
 **Live:** https://bertie-mc.github.io/bertie-mod-atlas/
 
@@ -20,7 +25,7 @@ src/            modular source — a normal static site
   data.json       the mod dataset (source of truth for the site)
 build.py        inlines src/ → a single self-contained index.html
 index.html      built output (served by GitHub Pages) — do not edit by hand
-bertie-mod-stages.md   the written source-of-record
+bertie-mod-stages.md   written planning notes
 ```
 
 ## Develop

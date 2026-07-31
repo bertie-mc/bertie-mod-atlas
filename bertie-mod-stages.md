@@ -1,6 +1,6 @@
 # modgraph — the bertie modpack mod map
 
-_The full modlist sorted into **four buckets**: **Content** = mods on the progression path (staged S1-S3, ecosystems folded into **families**); **Fluff** = mods that add tangible new objects (items, blocks, mobs, structures, food) but sit outside progression; **Configurations** = mods that add *nothing* tangible — they only change behaviour or visuals (QoL, UI, tweaks, fixes, compat, deps, enchantment abilities); **Deconstruct** = asset donors harvested for parts, not shipped in the pack. Working draft — recipes will intertwine, so placements iterate._
+_Work-in-progress planning classification for the full modlist. **Content** = candidates for integrated progression, with tentative stage and **family** placements; **Fluff** = mods that add tangible new objects (items, blocks, mobs, structures, food) but are not currently planned for progression; **Configurations** = mods that add *nothing* tangible — they only change behaviour or visuals (QoL, UI, tweaks, fixes, compat, deps, enchantment abilities); **Deconstruct** = asset donors harvested for parts, not shipped in the pack. Current implementation work focuses on early-to-mid game. No placement here represents completed or settled progression._
 
 **Totals:** 77 content · 155 fluff · 173 configurations · 21 deconstruct.
 

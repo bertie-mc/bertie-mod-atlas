@@ -1,7 +1,7 @@
 # AGENTS.md
 
 Instructions for AI coding agents working in **bertie-mod-atlas** — the interactive
-progression atlas for the [bertie](https://github.com/bertie-mc) modpack. Static
+progression-planning atlas for the [bertie](https://github.com/bertie-mc) modpack. Static
 HTML/CSS/JS plus a Python build script; no Minecraft toolchain here.
 
 ---
@@ -40,7 +40,7 @@ If the atlas needs icons to display, generate them locally at build time.
 
 ## 3. Data comes from the pack, not from memory
 
-`src/data.json` describes mods, stages and progression links. When updating it:
+`src/data.json` describes mods and provisional stage/integration relationships. When updating it:
 
 - Take ids, versions and mechanics **from the pack and the jar-derived documentation**,
   not from recollection. The workspace repo's `mod-documentation/` is the reference.
