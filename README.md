@@ -9,9 +9,7 @@ progression), **configurations** (changes behaviour/visuals only), and
 **deconstruct** (asset donors, not shipped) — then filtered, searched and sliced
 in the browser.
 
-The pack and this atlas are works in progress. Current implementation work focuses
-on early-to-mid-game progression; stage labels describe planning, not a completed
-or settled progression path.
+Stage labels describe provisional planning, not a completed or settled progression path.
 
 **Live:** https://bertie-mc.github.io/bertie-mod-atlas/
 
