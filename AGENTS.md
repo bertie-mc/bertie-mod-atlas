@@ -32,7 +32,6 @@ generator script. Those icons are other people's artwork.
   render-check images). They are regenerable output, and redistributing them is not ours
   to do.
 - Commit the **generator**, not its output.
-- The same exclusion exists in the private workspace repo. Do not add an exception here.
 
 If the atlas needs icons to display, generate them locally at build time.
 
@@ -42,8 +41,9 @@ If the atlas needs icons to display, generate them locally at build time.
 
 `src/data.json` describes mods and provisional stage/integration relationships. When updating it:
 
-- Take ids, versions and mechanics **from the pack and the jar-derived documentation**,
-  not from recollection. The workspace repo's `mod-documentation/` is the reference.
+- Take ids, versions and mechanics from the current monorepo pack manifest and configuration,
+  then inspect the exact dependency JAR when the pack source does not establish a mechanic.
+  Do not rely on recollection.
 - Exact ids, exact counts. `deepwaters:endlesscaves`, not "the key item".
 - If you could not verify something, mark it unverified rather than asserting it.
 
