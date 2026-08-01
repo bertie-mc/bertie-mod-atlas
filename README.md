@@ -31,7 +31,7 @@ bertie-mod-stages.md   written planning notes
 Serve `src/` and edit the files directly — `app.js` fetches `data.json`:
 
 ```
-python -m http.server -d src 8000    # http://localhost:8000
+python -m http.server --bind ::1 -d src 8000    # http://[::1]:8000
 ```
 
 ## Build & deploy
