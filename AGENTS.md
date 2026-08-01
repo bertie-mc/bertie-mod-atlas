@@ -71,8 +71,8 @@ next agent. Do not `--force` away changes you have not read.
 
 ## 5. Do not sidetrack
 
-- **Do not edit mod sources from here.** Each mod is its own repository under `bertie-mc`
-  with its own `AGENTS.md`.
+- **Do not edit mod sources from here.** The public pack and its owned mods live in the
+  [`bertie`](https://github.com/bertie-mc/bertie) monorepo, whose root `AGENTS.md` applies.
 - **Do not delete or revert another agent's work** to make your change apply. If you find
   modifications you did not make, report them and stop.
 - **Before deleting anything, grep every reference.**
